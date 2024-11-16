@@ -225,6 +225,9 @@
 			"doubleSided":true,
 			"name":"houseMAT",
 			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":0
+				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
 			}
@@ -233,6 +236,9 @@
 			"doubleSided":true,
 			"name":"lampPostMAT",
 			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":1
+				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
 			}
@@ -283,6 +289,9 @@
 			"doubleSided":true,
 			"name":"chargingStationMAT",
 			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":2
+				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
 			}
@@ -291,6 +300,9 @@
 			"doubleSided":true,
 			"name":"puddleMAT",
 			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":3
+				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
 			}
@@ -299,6 +311,9 @@
 			"doubleSided":true,
 			"name":"sewageMAt",
 			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":4
+				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
 			}
@@ -307,6 +322,9 @@
 			"doubleSided":true,
 			"name":"CurbMAT",
 			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":5
+				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
 			}
@@ -315,6 +333,9 @@
 			"doubleSided":true,
 			"name":"LanesMAT",
 			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":6
+				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
 			}
@@ -323,6 +344,9 @@
 			"doubleSided":true,
 			"name":"busStopMAT",
 			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":7
+				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
 			}
@@ -523,6 +547,82 @@
 					"material":10
 				}
 			]
+		}
+	],
+	"textures":[
+		{
+			"sampler":0,
+			"source":0
+		},
+		{
+			"sampler":0,
+			"source":1
+		},
+		{
+			"sampler":0,
+			"source":2
+		},
+		{
+			"sampler":0,
+			"source":3
+		},
+		{
+			"sampler":0,
+			"source":4
+		},
+		{
+			"sampler":0,
+			"source":5
+		},
+		{
+			"sampler":0,
+			"source":6
+		},
+		{
+			"sampler":0,
+			"source":7
+		}
+	],
+	"images":[
+		{
+			"mimeType":"image/png",
+			"name":"houseTEX",
+			"uri":"houseTEX.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"lamppostTEX",
+			"uri":"lamppostTEX.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"ChargingStationTEX",
+			"uri":"ChargingStationTEX.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"puddleTEX",
+			"uri":"puddleTEX.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"sewageHoleTEX",
+			"uri":"sewageHoleTEX.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"CurbsTEX",
+			"uri":"CurbsTEX.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"WalkLanesTEX",
+			"uri":"WalkLanesTEX.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"busStopTEX",
+			"uri":"busStopTEX.png"
 		}
 	],
 	"accessors":[
@@ -1373,6 +1473,12 @@
 			"byteLength":264,
 			"byteOffset":783788,
 			"target":34963
+		}
+	],
+	"samplers":[
+		{
+			"magFilter":9729,
+			"minFilter":9987
 		}
 	],
 	"buffers":[
