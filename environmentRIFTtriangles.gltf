@@ -8,7 +8,7 @@
 		{
 			"name":"Scene",
 			"nodes":[
-				18
+				16
 			]
 		}
 	],
@@ -102,7 +102,7 @@
 				7
 			],
 			"mesh":7,
-			"name":"Human 2",
+			"name":"player",
 			"rotation":[
 				0,
 				-1,
@@ -114,18 +114,6 @@
 				-0.45806631445884705,
 				-0.4945426285266876
 			]
-		},
-		{
-			"children":[
-				8
-			],
-			"name":"Player"
-		},
-		{
-			"children":[
-				9
-			],
-			"name":"Low Poly Human 2"
 		},
 		{
 			"mesh":8,
@@ -161,9 +149,9 @@
 		},
 		{
 			"children":[
-				11,
-				12,
-				13
+				9,
+				10,
+				11
 			],
 			"name":"Lanes"
 		},
@@ -187,8 +175,8 @@
 		},
 		{
 			"children":[
-				15,
-				16
+				13,
+				14
 			],
 			"name":"busStops"
 		},
@@ -201,9 +189,9 @@
 				4,
 				5,
 				6,
-				10,
-				14,
-				17
+				8,
+				12,
+				15
 			],
 			"name":"Scene Collection"
 		}
