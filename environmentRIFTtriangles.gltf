@@ -4,14 +4,34 @@
 		"version":"2.0"
 	},
 	"extensionsUsed":[
-		"KHR_materials_specular"
+		"KHR_materials_specular",
+		"KHR_lights_punctual"
 	],
+	"extensionsRequired":[
+		"KHR_lights_punctual"
+	],
+	"extensions":{
+		"KHR_lights_punctual":{
+			"lights":[
+				{
+					"color":[
+						1,
+						1,
+						1
+					],
+					"intensity":543.5141306588226,
+					"type":"point",
+					"name":"Point"
+				}
+			]
+		}
+	},
 	"scene":0,
 	"scenes":[
 		{
 			"name":"Scene",
 			"nodes":[
-				19
+				20
 			]
 		}
 	],
@@ -135,6 +155,25 @@
 			]
 		},
 		{
+			"extensions":{
+				"KHR_lights_punctual":{
+					"light":0
+				}
+			},
+			"name":"Point",
+			"rotation":[
+				-0.7071068286895752,
+				0,
+				0,
+				0.7071068286895752
+			],
+			"translation":[
+				1.5116522312164307,
+				1.521215558052063,
+				-0.9893286228179932
+			]
+		},
+		{
 			"mesh":10,
 			"name":"curbs",
 			"translation":[
@@ -168,9 +207,9 @@
 		},
 		{
 			"children":[
-				12,
 				13,
-				14
+				14,
+				15
 			],
 			"name":"Lanes"
 		},
@@ -216,8 +255,8 @@
 		},
 		{
 			"children":[
-				16,
-				17
+				17,
+				18
 			],
 			"name":"busStops"
 		},
@@ -233,8 +272,9 @@
 				9,
 				10,
 				11,
-				15,
-				18
+				12,
+				16,
+				19
 			],
 			"name":"Scene Collection"
 		}
