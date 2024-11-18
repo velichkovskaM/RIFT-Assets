@@ -11,7 +11,7 @@
 		{
 			"name":"Scene",
 			"nodes":[
-				19
+				20
 			]
 		}
 	],
@@ -215,9 +215,25 @@
 			]
 		},
 		{
+			"mesh":14,
+			"name":"Fire-Emoji-PNG-Background",
+			"rotation":[
+				0.5,
+				0.5,
+				-0.5,
+				0.5
+			],
+			"translation":[
+				1,
+				2,
+				0
+			]
+		},
+		{
 			"children":[
 				16,
-				17
+				17,
+				18
 			],
 			"name":"busStops"
 		},
@@ -234,7 +250,7 @@
 				10,
 				11,
 				15,
-				18
+				19
 			],
 			"name":"Scene Collection"
 		}
@@ -457,6 +473,18 @@
 					"index":16
 				},
 				"metallicFactor":0
+			}
+		},
+		{
+			"alphaMode":"BLEND",
+			"doubleSided":true,
+			"name":"Fire-Emoji-PNG-Background",
+			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":17
+				},
+				"metallicFactor":0,
+				"roughnessFactor":0.5
 			}
 		}
 	],
@@ -701,6 +729,20 @@
 					"material":15
 				}
 			]
+		},
+		{
+			"name":"Fire-Emoji-PNG-Background",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":74,
+						"NORMAL":75,
+						"TEXCOORD_0":76
+					},
+					"indices":77,
+					"material":16
+				}
+			]
 		}
 	],
 	"textures":[
@@ -771,6 +813,10 @@
 		{
 			"sampler":0,
 			"source":8
+		},
+		{
+			"sampler":1,
+			"source":11
 		}
 	],
 	"images":[
@@ -828,6 +874,11 @@
 			"mimeType":"image/png",
 			"name":"WalkLanesTEX",
 			"uri":"WalkLanesTEX.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"Fire-Emoji-PNG-Background",
+			"uri":"Fire-Emoji-PNG-Background.png"
 		}
 	],
 	"accessors":[
@@ -1464,6 +1515,40 @@
 			"componentType":5123,
 			"count":564,
 			"type":"SCALAR"
+		},
+		{
+			"bufferView":74,
+			"componentType":5126,
+			"count":4,
+			"max":[
+				0.5,
+				0,
+				0.5
+			],
+			"min":[
+				-0.5,
+				0,
+				-0.5
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":75,
+			"componentType":5126,
+			"count":4,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":76,
+			"componentType":5126,
+			"count":4,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":77,
+			"componentType":5123,
+			"count":6,
+			"type":"SCALAR"
 		}
 	],
 	"bufferViews":[
@@ -1910,17 +1995,47 @@
 			"byteLength":1128,
 			"byteOffset":1339816,
 			"target":34963
+		},
+		{
+			"buffer":0,
+			"byteLength":48,
+			"byteOffset":1340944,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":48,
+			"byteOffset":1340992,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":32,
+			"byteOffset":1341040,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":12,
+			"byteOffset":1341072,
+			"target":34963
 		}
 	],
 	"samplers":[
 		{
 			"magFilter":9729,
 			"minFilter":9987
+		},
+		{
+			"magFilter":9729,
+			"minFilter":9987,
+			"wrapS":33071,
+			"wrapT":33071
 		}
 	],
 	"buffers":[
 		{
-			"byteLength":1340944,
+			"byteLength":1341084,
 			"uri":"environmentRIFTtriangles.bin"
 		}
 	]
