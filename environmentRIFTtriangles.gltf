@@ -4,7 +4,6 @@
 		"version":"2.0"
 	},
 	"extensionsUsed":[
-		"KHR_materials_emissive_strength",
 		"KHR_materials_specular",
 		"KHR_lights_punctual"
 	],
@@ -1001,16 +1000,6 @@
 		{
 			"alphaMode":"BLEND",
 			"doubleSided":true,
-			"emissiveFactor":[
-				1,
-				0.5083341598510742,
-				0.104343943297863
-			],
-			"extensions":{
-				"KHR_materials_emissive_strength":{
-					"emissiveStrength":8.699999809265137
-				}
-			},
 			"name":"LampPostLightMAT",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
