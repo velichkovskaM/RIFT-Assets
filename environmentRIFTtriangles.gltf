@@ -31,7 +31,7 @@
 		{
 			"name":"Scene",
 			"nodes":[
-				68
+				67
 			]
 		}
 	],
@@ -783,26 +783,6 @@
 			]
 		},
 		{
-			"camera":1,
-			"name":"Camera.001",
-			"rotation":[
-				-0.08438929170370102,
-				0.9047970771789551,
-				0.2125573456287384,
-				0.35922178626060486
-			],
-			"scale":[
-				0.034310005605220795,
-				0.0343099944293499,
-				0.0343099907040596
-			],
-			"translation":[
-				4.741592884063721,
-				0.29727357625961304,
-				-0.8503602743148804
-			]
-		},
-		{
 			"children":[
 				56,
 				57,
@@ -813,8 +793,7 @@
 				62,
 				63,
 				64,
-				65,
-				66
+				65
 			],
 			"name":"busStops"
 		},
@@ -870,7 +849,7 @@
 				50,
 				51,
 				55,
-				67
+				66
 			],
 			"name":"Scene Collection"
 		}
@@ -878,16 +857,6 @@
 	"cameras":[
 		{
 			"name":"Camera",
-			"perspective":{
-				"aspectRatio":1.7777777777777777,
-				"yfov":0.39959652046304894,
-				"zfar":100,
-				"znear":0.10000000149011612
-			},
-			"type":"perspective"
-		},
-		{
-			"name":"Camera.001",
 			"perspective":{
 				"aspectRatio":1.7777777777777777,
 				"yfov":0.39959652046304894,
@@ -1028,12 +997,6 @@
 			"doubleSided":true,
 			"name":"LampPostLightMAT",
 			"pbrMetallicRoughness":{
-				"baseColorFactor":[
-					1,
-					1,
-					1,
-					0.25984251499176025
-				],
 				"baseColorTexture":{
 					"index":11
 				},
