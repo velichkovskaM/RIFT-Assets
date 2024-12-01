@@ -560,7 +560,7 @@
 		},
 		{
 			"mesh":51,
-			"name":"busStop1",
+			"name":"RoofbusStop1",
 			"rotation":[
 				0.5,
 				0.5,
@@ -640,7 +640,7 @@
 		},
 		{
 			"mesh":51,
-			"name":"busStop1.004",
+			"name":"RoofbusStop1.004",
 			"rotation":[
 				0.5,
 				0.5,
