@@ -31,7 +31,7 @@
 		{
 			"name":"Scene",
 			"nodes":[
-				70
+				71
 			]
 		}
 	],
@@ -859,10 +859,26 @@
 			]
 		},
 		{
+			"mesh":57,
+			"name":"Plane",
+			"rotation":[
+				0.6339116096496582,
+				0.31329870223999023,
+				-0.31329870223999023,
+				0.633911669254303
+			],
+			"translation":[
+				1,
+				4,
+				0
+			]
+		},
+		{
 			"children":[
 				66,
 				67,
-				68
+				68,
+				69
 			],
 			"name":"UmbrellaCollection"
 		},
@@ -919,7 +935,7 @@
 				50,
 				55,
 				65,
-				69
+				70
 			],
 			"name":"Scene Collection"
 		}
@@ -1154,6 +1170,24 @@
 					"index":17
 				},
 				"metallicFactor":0
+			}
+		},
+		{
+			"alphaMode":"BLEND",
+			"doubleSided":true,
+			"name":"Material",
+			"pbrMetallicRoughness":{
+				"baseColorFactor":[
+					0.031593747437000275,
+					0.7033622860908508,
+					0.8000074625015259,
+					1
+				],
+				"baseColorTexture":{
+					"index":18
+				},
+				"metallicFactor":0,
+				"roughnessFactor":0.5
 			}
 		}
 	],
@@ -2027,6 +2061,20 @@
 					"material":2
 				}
 			]
+		},
+		{
+			"name":"Plane.007",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":242,
+						"NORMAL":243,
+						"TEXCOORD_0":244
+					},
+					"indices":245,
+					"material":17
+				}
+			]
 		}
 	],
 	"textures":[
@@ -2101,6 +2149,10 @@
 		{
 			"sampler":0,
 			"source":7
+		},
+		{
+			"sampler":0,
+			"source":12
 		}
 	],
 	"images":[
@@ -2163,6 +2215,11 @@
 			"mimeType":"image/png",
 			"name":"WalkLanesTEX",
 			"uri":"WalkLanesTEX.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"raindrop",
+			"uri":"raindrop.png"
 		}
 	],
 	"accessors":[
@@ -4267,6 +4324,40 @@
 			"componentType":5123,
 			"count":684,
 			"type":"SCALAR"
+		},
+		{
+			"bufferView":242,
+			"componentType":5126,
+			"count":4,
+			"max":[
+				0.1249999850988388,
+				3.7252898543727042e-09,
+				0.125
+			],
+			"min":[
+				-0.1249999850988388,
+				-3.7252898543727042e-09,
+				-0.125
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":243,
+			"componentType":5126,
+			"count":4,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":244,
+			"componentType":5126,
+			"count":4,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":245,
+			"componentType":5123,
+			"count":6,
+			"type":"SCALAR"
 		}
 	],
 	"bufferViews":[
@@ -5721,6 +5812,30 @@
 			"byteLength":1368,
 			"byteOffset":17056588,
 			"target":34963
+		},
+		{
+			"buffer":0,
+			"byteLength":48,
+			"byteOffset":17057956,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":48,
+			"byteOffset":17058004,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":32,
+			"byteOffset":17058052,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":12,
+			"byteOffset":17058084,
+			"target":34963
 		}
 	],
 	"samplers":[
@@ -5731,7 +5846,7 @@
 	],
 	"buffers":[
 		{
-			"byteLength":17057956,
+			"byteLength":17058096,
 			"uri":"environmentRIFTtriangles.bin"
 		}
 	]
