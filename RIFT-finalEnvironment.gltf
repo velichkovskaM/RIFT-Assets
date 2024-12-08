@@ -11,7 +11,7 @@
 		{
 			"name":"Scene",
 			"nodes":[
-				402
+				404
 			]
 		}
 	],
@@ -2447,15 +2447,6 @@
 			]
 		},
 		{
-			"mesh":40,
-			"name":"electrifiedPuddle",
-			"translation":[
-				0.5,
-				0,
-				-36.5
-			]
-		},
-		{
 			"mesh":39,
 			"name":"puddle.004",
 			"translation":[
@@ -2780,13 +2771,12 @@
 				200,
 				201,
 				202,
-				203,
-				204
+				203
 			],
 			"name":"puddles"
 		},
 		{
-			"mesh":41,
+			"mesh":40,
 			"name":"hole",
 			"translation":[
 				-2.5,
@@ -2795,7 +2785,7 @@
 			]
 		},
 		{
-			"mesh":42,
+			"mesh":41,
 			"name":"lid",
 			"translation":[
 				-2.5,
@@ -2805,8 +2795,8 @@
 		},
 		{
 			"children":[
-				206,
-				207
+				205,
+				206
 			],
 			"name":"sewageHole.001",
 			"translation":[
@@ -2816,7 +2806,7 @@
 			]
 		},
 		{
-			"mesh":41,
+			"mesh":40,
 			"name":"hole.001",
 			"translation":[
 				-2.5,
@@ -2825,7 +2815,7 @@
 			]
 		},
 		{
-			"mesh":42,
+			"mesh":41,
 			"name":"lid.001",
 			"translation":[
 				-2.5,
@@ -2835,8 +2825,8 @@
 		},
 		{
 			"children":[
-				209,
-				210
+				208,
+				209
 			],
 			"name":"sewageHole.002",
 			"translation":[
@@ -2846,7 +2836,7 @@
 			]
 		},
 		{
-			"mesh":41,
+			"mesh":40,
 			"name":"hole.002",
 			"translation":[
 				-2.5,
@@ -2855,7 +2845,7 @@
 			]
 		},
 		{
-			"mesh":42,
+			"mesh":41,
 			"name":"lid.002",
 			"translation":[
 				-2.5,
@@ -2865,8 +2855,8 @@
 		},
 		{
 			"children":[
-				212,
-				213
+				211,
+				212
 			],
 			"name":"sewageHole.003",
 			"translation":[
@@ -2876,7 +2866,7 @@
 			]
 		},
 		{
-			"mesh":41,
+			"mesh":40,
 			"name":"hole.003",
 			"translation":[
 				-2.5,
@@ -2885,7 +2875,7 @@
 			]
 		},
 		{
-			"mesh":42,
+			"mesh":41,
 			"name":"lid.003",
 			"translation":[
 				-2.5,
@@ -2895,8 +2885,8 @@
 		},
 		{
 			"children":[
-				215,
-				216
+				214,
+				215
 			],
 			"name":"sewageHole.004",
 			"translation":[
@@ -2906,7 +2896,7 @@
 			]
 		},
 		{
-			"mesh":41,
+			"mesh":40,
 			"name":"hole.004",
 			"translation":[
 				-2.5,
@@ -2915,7 +2905,7 @@
 			]
 		},
 		{
-			"mesh":42,
+			"mesh":41,
 			"name":"lid.004",
 			"translation":[
 				-2.5,
@@ -2925,8 +2915,8 @@
 		},
 		{
 			"children":[
-				218,
-				219
+				217,
+				218
 			],
 			"name":"sewageHole.005",
 			"translation":[
@@ -2936,7 +2926,7 @@
 			]
 		},
 		{
-			"mesh":41,
+			"mesh":40,
 			"name":"hole.005",
 			"translation":[
 				-2.5,
@@ -2945,7 +2935,7 @@
 			]
 		},
 		{
-			"mesh":42,
+			"mesh":41,
 			"name":"lid.005",
 			"translation":[
 				-2.5,
@@ -2955,8 +2945,8 @@
 		},
 		{
 			"children":[
-				221,
-				222
+				220,
+				221
 			],
 			"name":"sewageHole.006",
 			"translation":[
@@ -2966,7 +2956,7 @@
 			]
 		},
 		{
-			"mesh":41,
+			"mesh":40,
 			"name":"hole.006",
 			"translation":[
 				-2.5,
@@ -2975,7 +2965,7 @@
 			]
 		},
 		{
-			"mesh":42,
+			"mesh":41,
 			"name":"lid.006",
 			"translation":[
 				-2.5,
@@ -2985,8 +2975,8 @@
 		},
 		{
 			"children":[
-				224,
-				225
+				223,
+				224
 			],
 			"name":"sewageHole.007",
 			"translation":[
@@ -2996,7 +2986,7 @@
 			]
 		},
 		{
-			"mesh":41,
+			"mesh":40,
 			"name":"hole.007",
 			"translation":[
 				-2.5,
@@ -3005,7 +2995,7 @@
 			]
 		},
 		{
-			"mesh":42,
+			"mesh":41,
 			"name":"lid.007",
 			"translation":[
 				-2.5,
@@ -3015,8 +3005,8 @@
 		},
 		{
 			"children":[
-				227,
-				228
+				226,
+				227
 			],
 			"name":"sewageHole.008",
 			"translation":[
@@ -3027,19 +3017,19 @@
 		},
 		{
 			"children":[
-				208,
-				211,
-				214,
-				217,
-				220,
-				223,
-				226,
-				229
+				207,
+				210,
+				213,
+				216,
+				219,
+				222,
+				225,
+				228
 			],
 			"name":"sewageHoles"
 		},
 		{
-			"mesh":43,
+			"mesh":42,
 			"name":"chargingStation",
 			"translation":[
 				-0.5,
@@ -3048,7 +3038,7 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":42,
 			"name":"chargingStation.001",
 			"translation":[
 				-0.5,
@@ -3057,7 +3047,7 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":42,
 			"name":"chargingStation.002",
 			"translation":[
 				-0.5,
@@ -3067,22 +3057,22 @@
 		},
 		{
 			"children":[
+				230,
 				231,
-				232,
-				233
+				232
 			],
 			"name":"chargingStations"
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight",
 			"translation":[
 				0.5199999809265137,
@@ -3092,9 +3082,9 @@
 		},
 		{
 			"children":[
+				234,
 				235,
-				236,
-				237
+				236
 			],
 			"name":"lampPostEmpty",
 			"translation":[
@@ -3104,15 +3094,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.001"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.001"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.001",
 			"translation":[
 				0.5199999809265137,
@@ -3122,9 +3112,9 @@
 		},
 		{
 			"children":[
+				238,
 				239,
-				240,
-				241
+				240
 			],
 			"name":"lampPostEmpty.001",
 			"translation":[
@@ -3134,15 +3124,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.002"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.002"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.002",
 			"translation":[
 				0.5199999809265137,
@@ -3152,9 +3142,9 @@
 		},
 		{
 			"children":[
+				242,
 				243,
-				244,
-				245
+				244
 			],
 			"name":"lampPostEmpty.002",
 			"translation":[
@@ -3164,15 +3154,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.003"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.003"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.003",
 			"translation":[
 				0.5199999809265137,
@@ -3182,9 +3172,9 @@
 		},
 		{
 			"children":[
+				246,
 				247,
-				248,
-				249
+				248
 			],
 			"name":"lampPostEmpty.003",
 			"translation":[
@@ -3194,15 +3184,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.004"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.004"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.004",
 			"translation":[
 				0.5199999809265137,
@@ -3212,9 +3202,9 @@
 		},
 		{
 			"children":[
+				250,
 				251,
-				252,
-				253
+				252
 			],
 			"name":"lampPostEmpty.004",
 			"translation":[
@@ -3224,15 +3214,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.005"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.005"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.005",
 			"translation":[
 				0.5199999809265137,
@@ -3242,9 +3232,9 @@
 		},
 		{
 			"children":[
+				254,
 				255,
-				256,
-				257
+				256
 			],
 			"name":"lampPostEmpty.005",
 			"translation":[
@@ -3254,15 +3244,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.006"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.006"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.006",
 			"translation":[
 				0.5199999809265137,
@@ -3272,9 +3262,9 @@
 		},
 		{
 			"children":[
+				258,
 				259,
-				260,
-				261
+				260
 			],
 			"name":"lampPostEmpty.006",
 			"translation":[
@@ -3284,15 +3274,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.007"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.007"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.007",
 			"translation":[
 				0.5199999809265137,
@@ -3302,9 +3292,9 @@
 		},
 		{
 			"children":[
+				262,
 				263,
-				264,
-				265
+				264
 			],
 			"name":"lampPostEmpty.007",
 			"translation":[
@@ -3314,15 +3304,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.008"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.008"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.008",
 			"translation":[
 				0.5199999809265137,
@@ -3332,9 +3322,9 @@
 		},
 		{
 			"children":[
+				266,
 				267,
-				268,
-				269
+				268
 			],
 			"name":"lampPostEmpty.008",
 			"translation":[
@@ -3344,15 +3334,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.009"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.009"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.009",
 			"translation":[
 				0.5199999809265137,
@@ -3362,9 +3352,9 @@
 		},
 		{
 			"children":[
+				270,
 				271,
-				272,
-				273
+				272
 			],
 			"name":"lampPostEmpty.009",
 			"translation":[
@@ -3374,15 +3364,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.010"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.010"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.010",
 			"translation":[
 				0.5199999809265137,
@@ -3392,9 +3382,9 @@
 		},
 		{
 			"children":[
+				274,
 				275,
-				276,
-				277
+				276
 			],
 			"name":"lampPostEmpty.010",
 			"translation":[
@@ -3404,15 +3394,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.011"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.011"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.011",
 			"translation":[
 				0.5199999809265137,
@@ -3422,9 +3412,9 @@
 		},
 		{
 			"children":[
+				278,
 				279,
-				280,
-				281
+				280
 			],
 			"name":"lampPostEmpty.011",
 			"translation":[
@@ -3434,15 +3424,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.012"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.012"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.012",
 			"translation":[
 				0.5199999809265137,
@@ -3452,9 +3442,9 @@
 		},
 		{
 			"children":[
+				282,
 				283,
-				284,
-				285
+				284
 			],
 			"name":"lampPostEmpty.012",
 			"translation":[
@@ -3464,15 +3454,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.013"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.013"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.013",
 			"translation":[
 				0.5199999809265137,
@@ -3482,9 +3472,9 @@
 		},
 		{
 			"children":[
+				286,
 				287,
-				288,
-				289
+				288
 			],
 			"name":"lampPostEmpty.013",
 			"translation":[
@@ -3494,15 +3484,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.014"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.014"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.014",
 			"translation":[
 				0.5199999809265137,
@@ -3512,9 +3502,9 @@
 		},
 		{
 			"children":[
+				290,
 				291,
-				292,
-				293
+				292
 			],
 			"name":"lampPostEmpty.014",
 			"translation":[
@@ -3524,15 +3514,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.015"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.015"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.015",
 			"translation":[
 				0.5199999809265137,
@@ -3542,9 +3532,9 @@
 		},
 		{
 			"children":[
+				294,
 				295,
-				296,
-				297
+				296
 			],
 			"name":"lampPostEmpty.015",
 			"translation":[
@@ -3554,15 +3544,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.016"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.016"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.016",
 			"translation":[
 				0.5199999809265137,
@@ -3572,9 +3562,9 @@
 		},
 		{
 			"children":[
+				298,
 				299,
-				300,
-				301
+				300
 			],
 			"name":"lampPostEmpty.016",
 			"translation":[
@@ -3584,15 +3574,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.017"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.017"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.017",
 			"translation":[
 				0.5199999809265137,
@@ -3602,9 +3592,9 @@
 		},
 		{
 			"children":[
+				302,
 				303,
-				304,
-				305
+				304
 			],
 			"name":"lampPostEmpty.017",
 			"translation":[
@@ -3614,15 +3604,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.018"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.018"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.018",
 			"translation":[
 				0.5199999809265137,
@@ -3632,9 +3622,9 @@
 		},
 		{
 			"children":[
+				306,
 				307,
-				308,
-				309
+				308
 			],
 			"name":"lampPostEmpty.018",
 			"translation":[
@@ -3644,15 +3634,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.019"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.019"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.019",
 			"translation":[
 				0.5199999809265137,
@@ -3662,9 +3652,9 @@
 		},
 		{
 			"children":[
+				310,
 				311,
-				312,
-				313
+				312
 			],
 			"name":"lampPostEmpty.019",
 			"translation":[
@@ -3674,15 +3664,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.020"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.020"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.020",
 			"translation":[
 				0.5199999809265137,
@@ -3692,9 +3682,9 @@
 		},
 		{
 			"children":[
+				314,
 				315,
-				316,
-				317
+				316
 			],
 			"name":"lampPostEmpty.020",
 			"translation":[
@@ -3704,15 +3694,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.021"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.021"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.021",
 			"translation":[
 				0.5199999809265137,
@@ -3722,9 +3712,9 @@
 		},
 		{
 			"children":[
+				318,
 				319,
-				320,
-				321
+				320
 			],
 			"name":"lampPostEmpty.021",
 			"translation":[
@@ -3734,15 +3724,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.022"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.022"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.022",
 			"translation":[
 				0.5199999809265137,
@@ -3752,9 +3742,9 @@
 		},
 		{
 			"children":[
+				322,
 				323,
-				324,
-				325
+				324
 			],
 			"name":"lampPostEmpty.022",
 			"translation":[
@@ -3764,15 +3754,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.023"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.023"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.023",
 			"translation":[
 				0.5199999809265137,
@@ -3782,9 +3772,9 @@
 		},
 		{
 			"children":[
+				326,
 				327,
-				328,
-				329
+				328
 			],
 			"name":"lampPostEmpty.023",
 			"translation":[
@@ -3794,15 +3784,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.024"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.024"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.024",
 			"translation":[
 				0.5199999809265137,
@@ -3812,9 +3802,9 @@
 		},
 		{
 			"children":[
+				330,
 				331,
-				332,
-				333
+				332
 			],
 			"name":"lampPostEmpty.024",
 			"translation":[
@@ -3824,15 +3814,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.025"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.025"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.025",
 			"translation":[
 				0.5199999809265137,
@@ -3842,9 +3832,9 @@
 		},
 		{
 			"children":[
+				334,
 				335,
-				336,
-				337
+				336
 			],
 			"name":"lampPostEmpty.025",
 			"translation":[
@@ -3854,15 +3844,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.026"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.026"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.026",
 			"translation":[
 				0.5199999809265137,
@@ -3872,9 +3862,9 @@
 		},
 		{
 			"children":[
+				338,
 				339,
-				340,
-				341
+				340
 			],
 			"name":"lampPostEmpty.026",
 			"translation":[
@@ -3884,15 +3874,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.027"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.027"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.027",
 			"translation":[
 				0.5199999809265137,
@@ -3902,9 +3892,9 @@
 		},
 		{
 			"children":[
+				342,
 				343,
-				344,
-				345
+				344
 			],
 			"name":"lampPostEmpty.027",
 			"translation":[
@@ -3914,15 +3904,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.028"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.028"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.028",
 			"translation":[
 				0.5199999809265137,
@@ -3932,9 +3922,9 @@
 		},
 		{
 			"children":[
+				346,
 				347,
-				348,
-				349
+				348
 			],
 			"name":"lampPostEmpty.028",
 			"translation":[
@@ -3944,15 +3934,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.029"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.029"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.029",
 			"translation":[
 				0.5199999809265137,
@@ -3962,9 +3952,9 @@
 		},
 		{
 			"children":[
+				350,
 				351,
-				352,
-				353
+				352
 			],
 			"name":"lampPostEmpty.029",
 			"translation":[
@@ -3974,15 +3964,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.030"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.030"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.030",
 			"translation":[
 				0.5199999809265137,
@@ -3992,9 +3982,9 @@
 		},
 		{
 			"children":[
+				354,
 				355,
-				356,
-				357
+				356
 			],
 			"name":"lampPostEmpty.030",
 			"translation":[
@@ -4004,15 +3994,15 @@
 			]
 		},
 		{
-			"mesh":44,
+			"mesh":43,
 			"name":"lampPost.031"
 		},
 		{
-			"mesh":45,
+			"mesh":44,
 			"name":"lampPostHead.031"
 		},
 		{
-			"mesh":46,
+			"mesh":45,
 			"name":"lampPostLight.031",
 			"translation":[
 				0.5199999809265137,
@@ -4022,9 +4012,9 @@
 		},
 		{
 			"children":[
+				358,
 				359,
-				360,
-				361
+				360
 			],
 			"name":"lampPostEmpty.031",
 			"translation":[
@@ -4035,43 +4025,43 @@
 		},
 		{
 			"children":[
-				238,
-				242,
-				246,
-				250,
-				254,
-				258,
-				262,
-				266,
-				270,
-				274,
-				278,
-				282,
-				286,
-				290,
-				294,
-				298,
-				302,
-				306,
-				310,
-				314,
-				318,
-				322,
-				326,
-				330,
-				334,
-				338,
-				342,
-				346,
-				350,
-				354,
-				358,
-				362
+				237,
+				241,
+				245,
+				249,
+				253,
+				257,
+				261,
+				265,
+				269,
+				273,
+				277,
+				281,
+				285,
+				289,
+				293,
+				297,
+				301,
+				305,
+				309,
+				313,
+				317,
+				321,
+				325,
+				329,
+				333,
+				337,
+				341,
+				345,
+				349,
+				353,
+				357,
+				361
 			],
 			"name":"lamps"
 		},
 		{
-			"mesh":47,
+			"mesh":46,
 			"name":"busStopback",
 			"rotation":[
 				0.5,
@@ -4086,7 +4076,7 @@
 			]
 		},
 		{
-			"mesh":48,
+			"mesh":47,
 			"name":"busStopLeft",
 			"rotation":[
 				0.5,
@@ -4101,7 +4091,7 @@
 			]
 		},
 		{
-			"mesh":49,
+			"mesh":48,
 			"name":"busStopRight",
 			"rotation":[
 				0.5,
@@ -4116,7 +4106,7 @@
 			]
 		},
 		{
-			"mesh":50,
+			"mesh":49,
 			"name":"busStopRoof",
 			"rotation":[
 				0.5,
@@ -4132,10 +4122,10 @@
 		},
 		{
 			"children":[
+				363,
 				364,
 				365,
-				366,
-				367
+				366
 			],
 			"name":"busStopEmpty",
 			"translation":[
@@ -4145,7 +4135,7 @@
 			]
 		},
 		{
-			"mesh":47,
+			"mesh":46,
 			"name":"busStopback.001",
 			"rotation":[
 				0.5,
@@ -4160,7 +4150,7 @@
 			]
 		},
 		{
-			"mesh":48,
+			"mesh":47,
 			"name":"busStopLeft.001",
 			"rotation":[
 				0.5,
@@ -4175,7 +4165,7 @@
 			]
 		},
 		{
-			"mesh":49,
+			"mesh":48,
 			"name":"busStopRight.001",
 			"rotation":[
 				0.5,
@@ -4190,7 +4180,7 @@
 			]
 		},
 		{
-			"mesh":50,
+			"mesh":49,
 			"name":"busStopRoof.001",
 			"rotation":[
 				0.5,
@@ -4206,10 +4196,10 @@
 		},
 		{
 			"children":[
+				368,
 				369,
 				370,
-				371,
-				372
+				371
 			],
 			"name":"busStopEmpty.001",
 			"translation":[
@@ -4219,7 +4209,7 @@
 			]
 		},
 		{
-			"mesh":47,
+			"mesh":46,
 			"name":"busStopback.002",
 			"rotation":[
 				0.5,
@@ -4234,7 +4224,7 @@
 			]
 		},
 		{
-			"mesh":48,
+			"mesh":47,
 			"name":"busStopLeft.002",
 			"rotation":[
 				0.5,
@@ -4249,7 +4239,7 @@
 			]
 		},
 		{
-			"mesh":49,
+			"mesh":48,
 			"name":"busStopRight.002",
 			"rotation":[
 				0.5,
@@ -4264,7 +4254,7 @@
 			]
 		},
 		{
-			"mesh":50,
+			"mesh":49,
 			"name":"busStopRoof.002",
 			"rotation":[
 				0.5,
@@ -4280,10 +4270,10 @@
 		},
 		{
 			"children":[
+				373,
 				374,
 				375,
-				376,
-				377
+				376
 			],
 			"name":"busStopEmpty.002",
 			"translation":[
@@ -4293,7 +4283,7 @@
 			]
 		},
 		{
-			"mesh":47,
+			"mesh":46,
 			"name":"busStopback.003",
 			"rotation":[
 				0.5,
@@ -4308,7 +4298,7 @@
 			]
 		},
 		{
-			"mesh":48,
+			"mesh":47,
 			"name":"busStopLeft.003",
 			"rotation":[
 				0.5,
@@ -4323,7 +4313,7 @@
 			]
 		},
 		{
-			"mesh":49,
+			"mesh":48,
 			"name":"busStopRight.003",
 			"rotation":[
 				0.5,
@@ -4338,7 +4328,7 @@
 			]
 		},
 		{
-			"mesh":50,
+			"mesh":49,
 			"name":"busStopRoof.003",
 			"rotation":[
 				0.5,
@@ -4354,10 +4344,10 @@
 		},
 		{
 			"children":[
+				378,
 				379,
 				380,
-				381,
-				382
+				381
 			],
 			"name":"busStopEmpty.003",
 			"translation":[
@@ -4367,7 +4357,7 @@
 			]
 		},
 		{
-			"mesh":47,
+			"mesh":46,
 			"name":"busStopback.004",
 			"rotation":[
 				0.5,
@@ -4382,7 +4372,7 @@
 			]
 		},
 		{
-			"mesh":48,
+			"mesh":47,
 			"name":"busStopLeft.004",
 			"rotation":[
 				0.5,
@@ -4397,7 +4387,7 @@
 			]
 		},
 		{
-			"mesh":49,
+			"mesh":48,
 			"name":"busStopRight.004",
 			"rotation":[
 				0.5,
@@ -4412,7 +4402,7 @@
 			]
 		},
 		{
-			"mesh":50,
+			"mesh":49,
 			"name":"busStopRoof.004",
 			"rotation":[
 				0.5,
@@ -4428,10 +4418,10 @@
 		},
 		{
 			"children":[
+				383,
 				384,
 				385,
-				386,
-				387
+				386
 			],
 			"name":"busStopEmpty.004",
 			"translation":[
@@ -4441,7 +4431,7 @@
 			]
 		},
 		{
-			"mesh":47,
+			"mesh":46,
 			"name":"busStopback.005",
 			"rotation":[
 				0.5,
@@ -4456,7 +4446,7 @@
 			]
 		},
 		{
-			"mesh":48,
+			"mesh":47,
 			"name":"busStopLeft.005",
 			"rotation":[
 				0.5,
@@ -4471,7 +4461,7 @@
 			]
 		},
 		{
-			"mesh":49,
+			"mesh":48,
 			"name":"busStopRight.005",
 			"rotation":[
 				0.5,
@@ -4486,7 +4476,7 @@
 			]
 		},
 		{
-			"mesh":50,
+			"mesh":49,
 			"name":"busStopRoof.005",
 			"rotation":[
 				0.5,
@@ -4502,10 +4492,10 @@
 		},
 		{
 			"children":[
+				388,
 				389,
 				390,
-				391,
-				392
+				391
 			],
 			"name":"busStopEmpty.005",
 			"translation":[
@@ -4515,7 +4505,7 @@
 			]
 		},
 		{
-			"mesh":47,
+			"mesh":46,
 			"name":"busStopback.006",
 			"rotation":[
 				0.5,
@@ -4530,7 +4520,7 @@
 			]
 		},
 		{
-			"mesh":48,
+			"mesh":47,
 			"name":"busStopLeft.006",
 			"rotation":[
 				0.5,
@@ -4545,7 +4535,7 @@
 			]
 		},
 		{
-			"mesh":49,
+			"mesh":48,
 			"name":"busStopRight.006",
 			"rotation":[
 				0.5,
@@ -4560,7 +4550,7 @@
 			]
 		},
 		{
-			"mesh":50,
+			"mesh":49,
 			"name":"busStopRoof.006",
 			"rotation":[
 				0.5,
@@ -4576,10 +4566,10 @@
 		},
 		{
 			"children":[
+				393,
 				394,
 				395,
-				396,
-				397
+				396
 			],
 			"name":"busStopEmpty.006",
 			"translation":[
@@ -4590,18 +4580,18 @@
 		},
 		{
 			"children":[
-				368,
-				373,
-				378,
-				383,
-				388,
-				393,
-				398
+				367,
+				372,
+				377,
+				382,
+				387,
+				392,
+				397
 			],
 			"name":"busStops"
 		},
 		{
-			"mesh":51,
+			"mesh":50,
 			"name":"barrier",
 			"rotation":[
 				0,
@@ -4617,9 +4607,34 @@
 		},
 		{
 			"children":[
-				400
+				399
 			],
 			"name":"barriers"
+		},
+		{
+			"mesh":51,
+			"name":"electrifiedPuddle",
+			"translation":[
+				1.5,
+				0,
+				-37.5
+			]
+		},
+		{
+			"mesh":52,
+			"name":"pole",
+			"translation":[
+				1,
+				0,
+				-38
+			]
+		},
+		{
+			"children":[
+				401,
+				402
+			],
+			"name":"electrified puddles"
 		},
 		{
 			"children":[
@@ -4632,12 +4647,13 @@
 				111,
 				157,
 				167,
-				205,
-				230,
-				234,
-				363,
-				399,
-				401
+				204,
+				229,
+				233,
+				362,
+				398,
+				400,
+				403
 			],
 			"name":"Scene Collection"
 		}
@@ -4842,23 +4858,12 @@
 			}
 		},
 		{
-			"doubleSided":true,
-			"name":"playerMAT",
-			"pbrMetallicRoughness":{
-				"baseColorTexture":{
-					"index":17
-				},
-				"metallicFactor":0,
-				"roughnessFactor":0.5
-			}
-		},
-		{
 			"alphaMode":"BLEND",
 			"doubleSided":true,
 			"name":"sewageMAt.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":18
+					"index":17
 				},
 				"metallicFactor":0
 			}
@@ -4868,7 +4873,7 @@
 			"name":"chargingStationMATbaked",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":19
+					"index":18
 				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
@@ -4879,7 +4884,7 @@
 			"name":"lamppostMATbaked",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":20
+					"index":19
 				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
@@ -4891,7 +4896,7 @@
 			"name":"LampPostLightMAT",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":21
+					"index":20
 				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
@@ -4903,7 +4908,7 @@
 			"name":"busStopMATbaked",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":22
+					"index":21
 				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
@@ -4914,10 +4919,36 @@
 			"name":"Material",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
+					"index":22
+				},
+				"metallicFactor":0,
+				"roughnessFactor":0.5
+			}
+		},
+		{
+			"doubleSided":true,
+			"name":"playerMAT",
+			"pbrMetallicRoughness":{
+				"baseColorTexture":{
 					"index":23
 				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
+			}
+		},
+		{
+			"doubleSided":true,
+			"extensions":{
+				"KHR_materials_specular":{
+					"specularFactor":0
+				}
+			},
+			"name":"CIMENTO.001",
+			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":24
+				},
+				"roughnessFactor":0.858578622341156
 			}
 		}
 	],
@@ -5483,7 +5514,7 @@
 			]
 		},
 		{
-			"name":"Plane.008",
+			"name":"Plane.009",
 			"primitives":[
 				{
 					"attributes":{
@@ -5497,7 +5528,7 @@
 			]
 		},
 		{
-			"name":"Plane.009",
+			"name":"Cylinder.002",
 			"primitives":[
 				{
 					"attributes":{
@@ -5505,21 +5536,7 @@
 						"NORMAL":148,
 						"TEXCOORD_0":149
 					},
-					"indices":143,
-					"material":17
-				}
-			]
-		},
-		{
-			"name":"Cylinder.002",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":150,
-						"NORMAL":151,
-						"TEXCOORD_0":152
-					},
-					"indices":153,
+					"indices":150,
 					"material":4
 				}
 			]
@@ -5529,12 +5546,12 @@
 			"primitives":[
 				{
 					"attributes":{
-						"POSITION":154,
-						"NORMAL":155,
-						"TEXCOORD_0":156
+						"POSITION":151,
+						"NORMAL":152,
+						"TEXCOORD_0":153
 					},
-					"indices":157,
-					"material":18
+					"indices":154,
+					"material":17
 				}
 			]
 		},
@@ -5543,12 +5560,12 @@
 			"primitives":[
 				{
 					"attributes":{
-						"POSITION":158,
-						"NORMAL":159,
-						"TEXCOORD_0":160
+						"POSITION":155,
+						"NORMAL":156,
+						"TEXCOORD_0":157
 					},
-					"indices":161,
-					"material":19
+					"indices":158,
+					"material":18
 				}
 			]
 		},
@@ -5557,12 +5574,12 @@
 			"primitives":[
 				{
 					"attributes":{
-						"POSITION":162,
-						"NORMAL":163,
-						"TEXCOORD_0":164
+						"POSITION":159,
+						"NORMAL":160,
+						"TEXCOORD_0":161
 					},
-					"indices":165,
-					"material":19
+					"indices":162,
+					"material":18
 				}
 			]
 		},
@@ -5571,12 +5588,12 @@
 			"primitives":[
 				{
 					"attributes":{
-						"POSITION":166,
-						"NORMAL":167,
-						"TEXCOORD_0":168
+						"POSITION":163,
+						"NORMAL":164,
+						"TEXCOORD_0":165
 					},
-					"indices":169,
-					"material":20
+					"indices":166,
+					"material":19
 				}
 			]
 		},
@@ -5585,12 +5602,12 @@
 			"primitives":[
 				{
 					"attributes":{
-						"POSITION":170,
-						"NORMAL":171,
-						"TEXCOORD_0":172
+						"POSITION":167,
+						"NORMAL":168,
+						"TEXCOORD_0":169
 					},
-					"indices":173,
-					"material":21
+					"indices":170,
+					"material":20
 				}
 			]
 		},
@@ -5599,12 +5616,12 @@
 			"primitives":[
 				{
 					"attributes":{
-						"POSITION":174,
-						"NORMAL":175,
-						"TEXCOORD_0":176
+						"POSITION":171,
+						"NORMAL":172,
+						"TEXCOORD_0":173
 					},
-					"indices":177,
-					"material":21
+					"indices":174,
+					"material":20
 				}
 			]
 		},
@@ -5613,12 +5630,12 @@
 			"primitives":[
 				{
 					"attributes":{
-						"POSITION":178,
-						"NORMAL":179,
-						"TEXCOORD_0":180
+						"POSITION":175,
+						"NORMAL":176,
+						"TEXCOORD_0":177
 					},
-					"indices":181,
-					"material":21
+					"indices":178,
+					"material":20
 				}
 			]
 		},
@@ -5627,12 +5644,12 @@
 			"primitives":[
 				{
 					"attributes":{
-						"POSITION":182,
-						"NORMAL":183,
-						"TEXCOORD_0":184
+						"POSITION":179,
+						"NORMAL":180,
+						"TEXCOORD_0":181
 					},
-					"indices":185,
-					"material":21
+					"indices":182,
+					"material":20
 				}
 			]
 		},
@@ -5641,12 +5658,41 @@
 			"primitives":[
 				{
 					"attributes":{
-						"POSITION":186,
-						"NORMAL":187,
-						"TEXCOORD_0":188
+						"POSITION":183,
+						"NORMAL":184,
+						"TEXCOORD_0":185
 					},
-					"indices":189,
+					"indices":186,
+					"material":21
+				}
+			]
+		},
+		{
+			"name":"Plane.008",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":187,
+						"NORMAL":188,
+						"TEXCOORD_0":189
+					},
+					"indices":143,
 					"material":22
+				}
+			]
+		},
+		{
+			"name":"Mesh",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":190,
+						"NORMAL":191,
+						"TEXCOORD_0":192,
+						"TEXCOORD_1":193
+					},
+					"indices":194,
+					"material":23
 				}
 			]
 		}
@@ -5747,6 +5793,10 @@
 		{
 			"sampler":0,
 			"source":22
+		},
+		{
+			"sampler":0,
+			"source":16
 		}
 	],
 	"images":[
@@ -5832,11 +5882,6 @@
 		},
 		{
 			"mimeType":"image/png",
-			"name":"playerTEX",
-			"uri":"playerTEX.png"
-		},
-		{
-			"mimeType":"image/png",
 			"name":"sewageHole",
 			"uri":"sewageHole.png"
 		},
@@ -5864,6 +5909,11 @@
 			"mimeType":"image/png",
 			"name":"sewageHoleTEX",
 			"uri":"sewageHoleTEX.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"playerTEX",
+			"uri":"playerTEX.png"
 		}
 	],
 	"accessors":[
@@ -7136,14 +7186,14 @@
 			"componentType":5126,
 			"count":4,
 			"max":[
-				0.5,
-				0,
-				0.5
+				3,
+				0.009999999776482582,
+				-16
 			],
 			"min":[
-				-0.5,
-				0,
-				-0.5
+				2,
+				0.009999999776482582,
+				-17
 			],
 			"type":"VEC3"
 		},
@@ -7162,34 +7212,6 @@
 		{
 			"bufferView":147,
 			"componentType":5126,
-			"count":4,
-			"max":[
-				3,
-				0.009999999776482582,
-				-16
-			],
-			"min":[
-				2,
-				0.009999999776482582,
-				-17
-			],
-			"type":"VEC3"
-		},
-		{
-			"bufferView":148,
-			"componentType":5126,
-			"count":4,
-			"type":"VEC3"
-		},
-		{
-			"bufferView":149,
-			"componentType":5126,
-			"count":4,
-			"type":"VEC2"
-		},
-		{
-			"bufferView":150,
-			"componentType":5126,
 			"count":192,
 			"max":[
 				2.9000000953674316,
@@ -7204,25 +7226,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":151,
+			"bufferView":148,
 			"componentType":5126,
 			"count":192,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":152,
+			"bufferView":149,
 			"componentType":5126,
 			"count":192,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":153,
+			"bufferView":150,
 			"componentType":5123,
 			"count":372,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":154,
+			"bufferView":151,
 			"componentType":5126,
 			"count":722,
 			"max":[
@@ -7238,25 +7260,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":155,
+			"bufferView":152,
 			"componentType":5126,
 			"count":722,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":156,
+			"bufferView":153,
 			"componentType":5126,
 			"count":722,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":157,
+			"bufferView":154,
 			"componentType":5123,
 			"count":1518,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":158,
+			"bufferView":155,
 			"componentType":5126,
 			"count":327,
 			"max":[
@@ -7272,25 +7294,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":159,
+			"bufferView":156,
 			"componentType":5126,
 			"count":327,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":160,
+			"bufferView":157,
 			"componentType":5126,
 			"count":327,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":161,
+			"bufferView":158,
 			"componentType":5123,
 			"count":564,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":162,
+			"bufferView":159,
 			"componentType":5126,
 			"count":232,
 			"max":[
@@ -7306,25 +7328,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":163,
+			"bufferView":160,
 			"componentType":5126,
 			"count":232,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":164,
+			"bufferView":161,
 			"componentType":5126,
 			"count":232,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":165,
+			"bufferView":162,
 			"componentType":5123,
 			"count":432,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":166,
+			"bufferView":163,
 			"componentType":5126,
 			"count":96,
 			"max":[
@@ -7340,25 +7362,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":167,
+			"bufferView":164,
 			"componentType":5126,
 			"count":96,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":168,
+			"bufferView":165,
 			"componentType":5126,
 			"count":96,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":169,
+			"bufferView":166,
 			"componentType":5123,
 			"count":180,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":170,
+			"bufferView":167,
 			"componentType":5126,
 			"count":823,
 			"max":[
@@ -7374,25 +7396,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":171,
+			"bufferView":168,
 			"componentType":5126,
 			"count":823,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":172,
+			"bufferView":169,
 			"componentType":5126,
 			"count":823,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":173,
+			"bufferView":170,
 			"componentType":5123,
 			"count":1530,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":174,
+			"bufferView":171,
 			"componentType":5126,
 			"count":268,
 			"max":[
@@ -7408,25 +7430,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":175,
+			"bufferView":172,
 			"componentType":5126,
 			"count":268,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":176,
+			"bufferView":173,
 			"componentType":5126,
 			"count":268,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":177,
+			"bufferView":174,
 			"componentType":5123,
 			"count":390,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":178,
+			"bufferView":175,
 			"componentType":5126,
 			"count":252,
 			"max":[
@@ -7442,25 +7464,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":179,
+			"bufferView":176,
 			"componentType":5126,
 			"count":252,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":180,
+			"bufferView":177,
 			"componentType":5126,
 			"count":252,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":181,
+			"bufferView":178,
 			"componentType":5123,
 			"count":378,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":182,
+			"bufferView":179,
 			"componentType":5126,
 			"count":764,
 			"max":[
@@ -7476,25 +7498,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":183,
+			"bufferView":180,
 			"componentType":5126,
 			"count":764,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":184,
+			"bufferView":181,
 			"componentType":5126,
 			"count":764,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":185,
+			"bufferView":182,
 			"componentType":5123,
 			"count":1356,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":186,
+			"bufferView":183,
 			"componentType":5126,
 			"count":400,
 			"max":[
@@ -7510,21 +7532,89 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":187,
+			"bufferView":184,
 			"componentType":5126,
 			"count":400,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":188,
+			"bufferView":185,
 			"componentType":5126,
 			"count":400,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":189,
+			"bufferView":186,
 			"componentType":5123,
 			"count":600,
+			"type":"SCALAR"
+		},
+		{
+			"bufferView":187,
+			"componentType":5126,
+			"count":4,
+			"max":[
+				0.5,
+				0,
+				0.5
+			],
+			"min":[
+				-0.5,
+				0,
+				-0.5
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":188,
+			"componentType":5126,
+			"count":4,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":189,
+			"componentType":5126,
+			"count":4,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":190,
+			"componentType":5126,
+			"count":3628,
+			"max":[
+				5.433774948120117,
+				3.2629168033599854,
+				0.4806782007217407
+			],
+			"min":[
+				-5.279951095581055,
+				-0.08741530776023865,
+				-0.47932156920433044
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":191,
+			"componentType":5126,
+			"count":3628,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":192,
+			"componentType":5126,
+			"count":3628,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":193,
+			"componentType":5126,
+			"count":3628,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":194,
+			"componentType":5123,
+			"count":6264,
 			"type":"SCALAR"
 		}
 	],
@@ -8413,260 +8503,290 @@
 		},
 		{
 			"buffer":0,
-			"byteLength":48,
+			"byteLength":2304,
 			"byteOffset":1278064,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":48,
-			"byteOffset":1278112,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":32,
-			"byteOffset":1278160,
-			"target":34962
-		},
-		{
-			"buffer":0,
 			"byteLength":2304,
-			"byteOffset":1278192,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":2304,
-			"byteOffset":1280496,
+			"byteOffset":1280368,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":1536,
-			"byteOffset":1282800,
+			"byteOffset":1282672,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":744,
-			"byteOffset":1284336,
+			"byteOffset":1284208,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":8664,
-			"byteOffset":1285080,
+			"byteOffset":1284952,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":8664,
-			"byteOffset":1293744,
+			"byteOffset":1293616,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":5776,
-			"byteOffset":1302408,
+			"byteOffset":1302280,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":3036,
-			"byteOffset":1308184,
+			"byteOffset":1308056,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":3924,
-			"byteOffset":1311220,
+			"byteOffset":1311092,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":3924,
-			"byteOffset":1315144,
+			"byteOffset":1315016,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":2616,
-			"byteOffset":1319068,
+			"byteOffset":1318940,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":1128,
-			"byteOffset":1321684,
+			"byteOffset":1321556,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":2784,
-			"byteOffset":1322812,
+			"byteOffset":1322684,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":2784,
-			"byteOffset":1325596,
+			"byteOffset":1325468,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":1856,
-			"byteOffset":1328380,
+			"byteOffset":1328252,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":864,
-			"byteOffset":1330236,
+			"byteOffset":1330108,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":1152,
-			"byteOffset":1331100,
+			"byteOffset":1330972,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":1152,
-			"byteOffset":1332252,
+			"byteOffset":1332124,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":768,
-			"byteOffset":1333404,
+			"byteOffset":1333276,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":360,
-			"byteOffset":1334172,
+			"byteOffset":1334044,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":9876,
-			"byteOffset":1334532,
+			"byteOffset":1334404,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":9876,
-			"byteOffset":1344408,
+			"byteOffset":1344280,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":6584,
-			"byteOffset":1354284,
+			"byteOffset":1354156,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":3060,
-			"byteOffset":1360868,
+			"byteOffset":1360740,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":3216,
-			"byteOffset":1363928,
+			"byteOffset":1363800,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":3216,
-			"byteOffset":1367144,
+			"byteOffset":1367016,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":2144,
-			"byteOffset":1370360,
+			"byteOffset":1370232,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":780,
-			"byteOffset":1372504,
+			"byteOffset":1372376,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":3024,
-			"byteOffset":1373284,
+			"byteOffset":1373156,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":3024,
-			"byteOffset":1376308,
+			"byteOffset":1376180,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":2016,
-			"byteOffset":1379332,
+			"byteOffset":1379204,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":756,
-			"byteOffset":1381348,
+			"byteOffset":1381220,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":9168,
-			"byteOffset":1382104,
+			"byteOffset":1381976,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":9168,
-			"byteOffset":1391272,
+			"byteOffset":1391144,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":6112,
-			"byteOffset":1400440,
+			"byteOffset":1400312,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":2712,
-			"byteOffset":1406552,
+			"byteOffset":1406424,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":4800,
-			"byteOffset":1409264,
+			"byteOffset":1409136,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":4800,
-			"byteOffset":1414064,
+			"byteOffset":1413936,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":3200,
-			"byteOffset":1418864,
+			"byteOffset":1418736,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":1200,
-			"byteOffset":1422064,
+			"byteOffset":1421936,
+			"target":34963
+		},
+		{
+			"buffer":0,
+			"byteLength":48,
+			"byteOffset":1423136,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":48,
+			"byteOffset":1423184,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":32,
+			"byteOffset":1423232,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":43536,
+			"byteOffset":1423264,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":43536,
+			"byteOffset":1466800,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":29024,
+			"byteOffset":1510336,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":29024,
+			"byteOffset":1539360,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":12528,
+			"byteOffset":1568384,
 			"target":34963
 		}
 	],
@@ -8684,7 +8804,7 @@
 	],
 	"buffers":[
 		{
-			"byteLength":1423264,
+			"byteLength":1580912,
 			"uri":"RIFT-finalEnvironment.bin"
 		}
 	]
