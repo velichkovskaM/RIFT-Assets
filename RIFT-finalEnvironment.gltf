@@ -11,7 +11,7 @@
 		{
 			"name":"Scene",
 			"nodes":[
-				420
+				454
 			]
 		}
 	],
@@ -361,6 +361,21 @@
 			]
 		},
 		{
+			"mesh":32,
+			"name":"sideCurbs.006",
+			"rotation":[
+				0,
+				0.7071068286895752,
+				0,
+				0.7071068286895752
+			],
+			"translation":[
+				3,
+				-0.02500000223517418,
+				0
+			]
+		},
+		{
 			"children":[
 				16,
 				17,
@@ -379,12 +394,13 @@
 				30,
 				31,
 				32,
-				33
+				33,
+				34
 			],
 			"name":"lanes"
 		},
 		{
-			"mesh":32,
+			"mesh":33,
 			"name":"Umbrella.001",
 			"rotation":[
 				-0.11517023295164108,
@@ -399,7 +415,7 @@
 			]
 		},
 		{
-			"mesh":32,
+			"mesh":33,
 			"name":"Umbrella.002",
 			"rotation":[
 				-0.11517023295164108,
@@ -414,7 +430,7 @@
 			]
 		},
 		{
-			"mesh":32,
+			"mesh":33,
 			"name":"Umbrella.003",
 			"rotation":[
 				-0.11517023295164108,
@@ -430,14 +446,14 @@
 		},
 		{
 			"children":[
-				35,
 				36,
-				37
+				37,
+				38
 			],
 			"name":"umbrellas"
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree",
 			"rotation":[
 				0.5963678359985352,
@@ -452,7 +468,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence",
 			"rotation":[
 				0,
@@ -467,7 +483,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.001",
 			"rotation":[
 				0,
@@ -482,7 +498,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.002",
 			"rotation":[
 				0,
@@ -497,7 +513,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.001",
 			"rotation":[
 				0.5963677763938904,
@@ -517,7 +533,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.003",
 			"rotation":[
 				0,
@@ -532,7 +548,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.004",
 			"rotation":[
 				0,
@@ -547,7 +563,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.003",
 			"rotation":[
 				0.5963678359985352,
@@ -562,7 +578,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.004",
 			"rotation":[
 				0.5963678359985352,
@@ -582,7 +598,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.005",
 			"rotation":[
 				0,
@@ -597,7 +613,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.006",
 			"rotation":[
 				-0.5,
@@ -612,7 +628,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.007",
 			"rotation":[
 				-0.5,
@@ -627,7 +643,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.008",
 			"rotation":[
 				-0.5,
@@ -642,7 +658,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.009",
 			"rotation":[
 				0,
@@ -657,7 +673,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.010",
 			"rotation":[
 				0,
@@ -672,7 +688,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.011",
 			"rotation":[
 				0,
@@ -687,7 +703,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.012",
 			"rotation":[
 				0,
@@ -702,7 +718,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.005",
 			"rotation":[
 				0.5963678359985352,
@@ -717,7 +733,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.006",
 			"rotation":[
 				0.24039340019226074,
@@ -737,7 +753,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.007",
 			"rotation":[
 				0.5963678359985352,
@@ -757,7 +773,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.013",
 			"rotation":[
 				0,
@@ -772,7 +788,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.014",
 			"rotation":[
 				0,
@@ -787,7 +803,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.015",
 			"rotation":[
 				0,
@@ -802,7 +818,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.016",
 			"rotation":[
 				0,
@@ -817,7 +833,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.017",
 			"rotation":[
 				0,
@@ -832,7 +848,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.018",
 			"rotation":[
 				0,
@@ -847,7 +863,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.019",
 			"rotation":[
 				0,
@@ -862,7 +878,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.020",
 			"rotation":[
 				-0.5,
@@ -877,7 +893,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.021",
 			"rotation":[
 				-0.5,
@@ -892,7 +908,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.022",
 			"rotation":[
 				-0.5,
@@ -907,7 +923,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.008",
 			"rotation":[
 				0.5963678359985352,
@@ -922,7 +938,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.009",
 			"rotation":[
 				0.24039340019226074,
@@ -942,7 +958,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.010",
 			"rotation":[
 				0.5963678359985352,
@@ -962,7 +978,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.011",
 			"rotation":[
 				0.24039340019226074,
@@ -982,7 +998,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.012",
 			"rotation":[
 				0.5963678359985352,
@@ -1002,7 +1018,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.013",
 			"rotation":[
 				0.5963678359985352,
@@ -1017,7 +1033,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.014",
 			"rotation":[
 				0.24039340019226074,
@@ -1037,7 +1053,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.015",
 			"rotation":[
 				0.24039340019226074,
@@ -1057,7 +1073,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.016",
 			"rotation":[
 				0.5963678359985352,
@@ -1077,7 +1093,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.023",
 			"rotation":[
 				0,
@@ -1092,7 +1108,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.024",
 			"rotation":[
 				0,
@@ -1107,7 +1123,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.025",
 			"rotation":[
 				0,
@@ -1122,7 +1138,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.026",
 			"rotation":[
 				0,
@@ -1137,7 +1153,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.027",
 			"rotation":[
 				0,
@@ -1152,7 +1168,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.017",
 			"rotation":[
 				0.5963678359985352,
@@ -1167,7 +1183,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.018",
 			"rotation":[
 				0.5963678359985352,
@@ -1187,7 +1203,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.019",
 			"rotation":[
 				0.5963678359985352,
@@ -1202,7 +1218,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.028",
 			"rotation":[
 				0,
@@ -1217,7 +1233,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.029",
 			"rotation":[
 				0,
@@ -1232,7 +1248,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.030",
 			"rotation":[
 				0,
@@ -1247,7 +1263,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.031",
 			"rotation":[
 				0,
@@ -1262,7 +1278,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.020",
 			"rotation":[
 				0.5963678359985352,
@@ -1282,7 +1298,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.032",
 			"rotation":[
 				-0.5,
@@ -1297,7 +1313,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.033",
 			"rotation":[
 				-0.5,
@@ -1312,7 +1328,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.034",
 			"rotation":[
 				0,
@@ -1327,7 +1343,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.035",
 			"rotation":[
 				0,
@@ -1342,7 +1358,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.036",
 			"rotation":[
 				0,
@@ -1357,7 +1373,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.037",
 			"rotation":[
 				0,
@@ -1372,7 +1388,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.038",
 			"rotation":[
 				0,
@@ -1387,7 +1403,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.039",
 			"rotation":[
 				0,
@@ -1402,7 +1418,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.040",
 			"rotation":[
 				0,
@@ -1417,7 +1433,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.021",
 			"rotation":[
 				0.5963678359985352,
@@ -1432,7 +1448,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.041",
 			"rotation":[
 				0,
@@ -1447,7 +1463,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.042",
 			"rotation":[
 				0,
@@ -1462,7 +1478,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.043",
 			"rotation":[
 				0,
@@ -1477,7 +1493,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.044",
 			"rotation":[
 				0,
@@ -1492,7 +1508,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.045",
 			"rotation":[
 				0,
@@ -1507,7 +1523,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.022",
 			"rotation":[
 				0.5963678359985352,
@@ -1522,7 +1538,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.023",
 			"rotation":[
 				0.24039340019226074,
@@ -1542,7 +1558,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.024",
 			"rotation":[
 				0.5963678359985352,
@@ -1562,7 +1578,7 @@
 			]
 		},
 		{
-			"mesh":33,
+			"mesh":34,
 			"name":"tree.025",
 			"rotation":[
 				0.5963678359985352,
@@ -1582,7 +1598,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.046",
 			"rotation":[
 				0.5,
@@ -1597,7 +1613,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.047",
 			"rotation":[
 				0.5,
@@ -1612,7 +1628,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.048",
 			"rotation":[
 				-0.5,
@@ -1627,7 +1643,7 @@
 			]
 		},
 		{
-			"mesh":34,
+			"mesh":35,
 			"name":"fence.049",
 			"rotation":[
 				-0.5,
@@ -1642,8 +1658,353 @@
 			]
 		},
 		{
+			"mesh":36,
+			"name":"grass",
+			"translation":[
+				-3,
+				0,
+				-3
+			]
+		},
+		{
+			"mesh":37,
+			"name":"tree2",
+			"rotation":[
+				0.6031988263130188,
+				0.36898669600486755,
+				-0.36898672580718994,
+				0.6031988859176636
+			],
+			"scale":[
+				3.3602664470672607,
+				4.139353275299072,
+				4.382322788238525
+			],
+			"translation":[
+				-1.1097033023834229,
+				1.5359251499176025,
+				-13.883907318115234
+			]
+		},
+		{
+			"mesh":38,
+			"name":"tree2.001",
+			"rotation":[
+				0.6140118837356567,
+				0.35069844126701355,
+				-0.35069847106933594,
+				0.6140118837356567
+			],
+			"scale":[
+				3.075159788131714,
+				3.075159788131714,
+				3.0751593112945557
+			],
+			"translation":[
+				-2.0387558937072754,
+				1.9568731784820557,
+				-12.821537971496582
+			]
+		},
+		{
+			"mesh":39,
+			"name":"grass.001",
+			"translation":[
+				-3,
+				0,
+				3
+			]
+		},
+		{
+			"mesh":39,
+			"name":"grass.002",
+			"translation":[
+				0,
+				0,
+				3
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.003",
+			"translation":[
+				-3,
+				0,
+				-10
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.004",
+			"translation":[
+				-3,
+				0,
+				-13
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.005",
+			"translation":[
+				-3,
+				0,
+				-23
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.006",
+			"translation":[
+				-3,
+				0,
+				-28
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.007",
+			"translation":[
+				-3,
+				0,
+				-36
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.008",
+			"translation":[
+				-3,
+				0,
+				-41
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.009",
+			"translation":[
+				-6,
+				0,
+				-41
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.010",
+			"translation":[
+				-3,
+				0,
+				-48
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.011",
+			"translation":[
+				-3,
+				0,
+				-53
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.012",
+			"translation":[
+				-3,
+				0,
+				-56
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.013",
+			"translation":[
+				-3,
+				0,
+				-63
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.014",
+			"translation":[
+				-3,
+				0,
+				-72
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.015",
+			"translation":[
+				-3,
+				0,
+				-75
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.016",
+			"translation":[
+				-3,
+				0,
+				-86
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.017",
+			"translation":[
+				-3,
+				0,
+				-89
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.018",
+			"translation":[
+				-3,
+				0,
+				-103
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.019",
+			"translation":[
+				-3,
+				0,
+				-106
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.020",
+			"translation":[
+				-3,
+				0,
+				-110
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.021",
+			"translation":[
+				-3,
+				0,
+				-116
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.022",
+			"translation":[
+				-3,
+				0,
+				-120
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.023",
+			"translation":[
+				-3,
+				0,
+				-123
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.024",
+			"translation":[
+				-3,
+				0,
+				-127
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.025",
+			"translation":[
+				-3,
+				0,
+				-130
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.026",
+			"translation":[
+				-3,
+				0,
+				-144
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.027",
+			"translation":[
+				-3,
+				0,
+				-147
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.028",
+			"translation":[
+				-3,
+				0,
+				-159
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.029",
+			"translation":[
+				-3,
+				0,
+				-162
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.030",
+			"translation":[
+				-3,
+				0,
+				-165
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.031",
+			"translation":[
+				-3,
+				0,
+				-171
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.032",
+			"translation":[
+				-3,
+				0,
+				-180
+			]
+		},
+		{
+			"mesh":36,
+			"name":"grass.033",
+			"translation":[
+				-3,
+				0,
+				-183
+			]
+		},
+		{
 			"children":[
-				39,
 				40,
 				41,
 				42,
@@ -1717,556 +2078,8 @@
 				110,
 				111,
 				112,
-				113
-			],
-			"name":"greenery&decorations"
-		},
-		{
-			"mesh":35,
-			"name":"House",
-			"rotation":[
-				0,
-				-1,
-				0,
-				4.371138828673793e-08
-			]
-		},
-		{
-			"mesh":35,
-			"name":"House.001",
-			"rotation":[
-				0,
-				-1,
-				0,
-				4.371138828673793e-08
-			],
-			"translation":[
-				0,
-				0,
-				-15
-			]
-		},
-		{
-			"mesh":35,
-			"name":"House.002",
-			"rotation":[
-				0,
-				-1,
-				0,
-				4.371138828673793e-08
-			],
-			"translation":[
-				0,
-				0,
-				-18
-			]
-		},
-		{
-			"mesh":35,
-			"name":"House.003",
-			"rotation":[
-				0,
-				-1,
-				0,
-				4.371138828673793e-08
-			],
-			"translation":[
-				0,
-				0,
-				-21
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2",
-			"translation":[
-				0,
-				0,
-				-5
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.001",
-			"translation":[
-				0,
-				0,
-				-8.100000381469727
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.002",
-			"translation":[
-				0,
-				0,
-				-26
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.003",
-			"translation":[
-				0,
-				0,
-				-31
-			]
-		},
-		{
-			"mesh":35,
-			"name":"House.004",
-			"rotation":[
-				0,
-				-1,
-				0,
-				4.371138828673793e-08
-			],
-			"translation":[
-				0,
-				0,
-				-34
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.004",
-			"translation":[
-				0,
-				0,
-				-39
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.005",
-			"rotation":[
-				0,
-				-0.7071068286895752,
-				0,
-				0.7071068286895752
-			],
-			"translation":[
-				-6,
-				0,
-				-48.05166244506836
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.006",
-			"translation":[
-				0,
-				0,
-				-51
-			]
-		},
-		{
-			"mesh":35,
-			"name":"House.005",
-			"rotation":[
-				0,
-				-1,
-				0,
-				4.371138828673793e-08
-			],
-			"translation":[
-				0,
-				0,
-				-58
-			]
-		},
-		{
-			"mesh":35,
-			"name":"House.006",
-			"rotation":[
-				0,
-				-1,
-				0,
-				4.371138828673793e-08
-			],
-			"translation":[
-				0,
-				0,
-				-61
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.007",
-			"translation":[
-				0,
-				0,
-				-66
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.008",
-			"translation":[
-				0,
-				0,
-				-69.1399917602539
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.009",
-			"translation":[
-				0,
-				0,
-				-78.0999984741211
-			]
-		},
-		{
-			"mesh":35,
-			"name":"House.007",
-			"rotation":[
-				0,
-				-1,
-				0,
-				4.371138828673793e-08
-			],
-			"translation":[
-				0,
-				0,
-				-81
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.010",
-			"translation":[
-				0,
-				0,
-				-84.0999984741211
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.011",
-			"translation":[
-				0,
-				0,
-				-97.0999984741211
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.012",
-			"rotation":[
-				0,
-				-0.7071068286895752,
-				0,
-				0.7071068286895752
-			],
-			"translation":[
-				-3.009999990463257,
-				0,
-				-96.0999984741211
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.013",
-			"rotation":[
-				0,
-				-0.7071068286895752,
-				0,
-				0.7071068286895752
-			],
-			"translation":[
-				-6.210000038146973,
-				0,
-				-96.0999984741211
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.014",
-			"translation":[
-				0,
-				0,
-				-100.25
-			]
-		},
-		{
-			"mesh":35,
-			"name":"House.008",
-			"rotation":[
-				0,
-				-1,
-				0,
-				4.371138828673793e-08
-			],
-			"translation":[
-				0,
-				0,
-				-107
-			]
-		},
-		{
-			"mesh":35,
-			"name":"House.009",
-			"rotation":[
-				0,
-				-1,
-				0,
-				4.371138828673793e-08
-			],
-			"translation":[
-				-0.2999998927116394,
-				0,
-				-110
-			]
-		},
-		{
-			"mesh":35,
-			"name":"House.010",
-			"rotation":[
-				0,
-				-1,
-				0,
-				4.371138828673793e-08
-			],
-			"translation":[
-				0,
-				0,
-				-113
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.015",
-			"translation":[
-				0,
-				0,
-				-117.0999984741211
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.016",
-			"translation":[
-				0,
-				0,
-				-132.10000610351562
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.017",
-			"translation":[
-				0,
-				0,
-				-135.25
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.018",
-			"rotation":[
-				0,
-				0.7071068286895752,
-				0,
-				0.7071068286895752
-			],
-			"translation":[
-				-0.10000000149011612,
-				0,
-				-139.85000610351562
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.019",
-			"rotation":[
-				0,
-				0.7071068286895752,
-				0,
-				0.7071068286895752
-			],
-			"translation":[
-				-3.0999999046325684,
-				0,
-				-139.85000610351562
-			]
-		},
-		{
-			"mesh":35,
-			"name":"House.011",
-			"rotation":[
-				0,
-				-1,
-				0,
-				4.371138828673793e-08
-			],
-			"translation":[
-				0,
-				0,
-				-124
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.020",
-			"rotation":[
-				0,
-				-0.7071068286895752,
-				0,
-				0.7071068286895752
-			],
-			"translation":[
-				-6,
-				0,
-				-144.05166625976562
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.021",
-			"translation":[
-				-3,
-				0,
-				-147
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.022",
-			"rotation":[
-				0,
-				-0.7071068286895752,
-				0,
-				0.7071068286895752
-			],
-			"translation":[
-				-3,
-				0,
-				-150
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.023",
-			"translation":[
-				0,
-				0,
-				-153
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.024",
-			"rotation":[
-				0,
-				0.7071068286895752,
-				0,
-				0.7071068286895752
-			],
-			"translation":[
-				0,
-				0,
-				-159
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.025",
-			"translation":[
-				-1.7999999523162842,
-				0,
-				-159
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.026",
-			"translation":[
-				-1.7999999523162842,
-				0,
-				-162
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.027",
-			"translation":[
-				-1.7999999523162842,
-				0,
-				-165
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.028",
-			"rotation":[
-				0,
-				-0.7071068286895752,
-				0,
-				0.7071068286895752
-			],
-			"translation":[
-				-3,
-				0,
-				-168
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.029",
-			"rotation":[
-				0,
-				-0.7071068286895752,
-				0,
-				0.7071068286895752
-			],
-			"translation":[
-				0,
-				0,
-				-188
-			]
-		},
-		{
-			"mesh":35,
-			"name":"House.012",
-			"rotation":[
-				0,
-				-1,
-				0,
-				4.371138828673793e-08
-			],
-			"translation":[
-				0,
-				0,
-				-174
-			]
-		},
-		{
-			"mesh":36,
-			"name":"House2.030",
-			"translation":[
-				0,
-				0,
-				-185.25
-			]
-		},
-		{
-			"mesh":35,
-			"name":"House.013",
-			"rotation":[
-				0,
-				-1,
-				0,
-				4.371138828673793e-08
-			],
-			"translation":[
-				0,
-				0,
-				-177
-			]
-		},
-		{
-			"children":[
+				113,
+				114,
 				115,
 				116,
 				117,
@@ -2302,8 +2115,556 @@
 				147,
 				148,
 				149,
-				150,
-				151,
+				150
+			],
+			"name":"greenery&decorations"
+		},
+		{
+			"mesh":40,
+			"name":"House",
+			"rotation":[
+				0,
+				-1,
+				0,
+				4.371138828673793e-08
+			]
+		},
+		{
+			"mesh":40,
+			"name":"House.001",
+			"rotation":[
+				0,
+				-1,
+				0,
+				4.371138828673793e-08
+			],
+			"translation":[
+				0,
+				0,
+				-15
+			]
+		},
+		{
+			"mesh":40,
+			"name":"House.002",
+			"rotation":[
+				0,
+				-1,
+				0,
+				4.371138828673793e-08
+			],
+			"translation":[
+				0,
+				0,
+				-18
+			]
+		},
+		{
+			"mesh":40,
+			"name":"House.003",
+			"rotation":[
+				0,
+				-1,
+				0,
+				4.371138828673793e-08
+			],
+			"translation":[
+				0,
+				0,
+				-21
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2",
+			"translation":[
+				0,
+				0,
+				-5
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.001",
+			"translation":[
+				0,
+				0,
+				-8.100000381469727
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.002",
+			"translation":[
+				0,
+				0,
+				-26
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.003",
+			"translation":[
+				0,
+				0,
+				-31
+			]
+		},
+		{
+			"mesh":40,
+			"name":"House.004",
+			"rotation":[
+				0,
+				-1,
+				0,
+				4.371138828673793e-08
+			],
+			"translation":[
+				0,
+				0,
+				-34
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.004",
+			"translation":[
+				0,
+				0,
+				-39
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.005",
+			"rotation":[
+				0,
+				-0.7071068286895752,
+				0,
+				0.7071068286895752
+			],
+			"translation":[
+				-6,
+				0,
+				-48.05166244506836
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.006",
+			"translation":[
+				0,
+				0,
+				-51
+			]
+		},
+		{
+			"mesh":40,
+			"name":"House.005",
+			"rotation":[
+				0,
+				-1,
+				0,
+				4.371138828673793e-08
+			],
+			"translation":[
+				0,
+				0,
+				-58
+			]
+		},
+		{
+			"mesh":40,
+			"name":"House.006",
+			"rotation":[
+				0,
+				-1,
+				0,
+				4.371138828673793e-08
+			],
+			"translation":[
+				0,
+				0,
+				-61
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.007",
+			"translation":[
+				0,
+				0,
+				-66
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.008",
+			"translation":[
+				0,
+				0,
+				-69.1399917602539
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.009",
+			"translation":[
+				0,
+				0,
+				-78.0999984741211
+			]
+		},
+		{
+			"mesh":40,
+			"name":"House.007",
+			"rotation":[
+				0,
+				-1,
+				0,
+				4.371138828673793e-08
+			],
+			"translation":[
+				0,
+				0,
+				-81
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.010",
+			"translation":[
+				0,
+				0,
+				-84.0999984741211
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.011",
+			"translation":[
+				0,
+				0,
+				-97.0999984741211
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.012",
+			"rotation":[
+				0,
+				-0.7071068286895752,
+				0,
+				0.7071068286895752
+			],
+			"translation":[
+				-3.009999990463257,
+				0,
+				-96.0999984741211
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.013",
+			"rotation":[
+				0,
+				-0.7071068286895752,
+				0,
+				0.7071068286895752
+			],
+			"translation":[
+				-6.210000038146973,
+				0,
+				-96.0999984741211
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.014",
+			"translation":[
+				0,
+				0,
+				-100.25
+			]
+		},
+		{
+			"mesh":40,
+			"name":"House.008",
+			"rotation":[
+				0,
+				-1,
+				0,
+				4.371138828673793e-08
+			],
+			"translation":[
+				0,
+				0,
+				-107
+			]
+		},
+		{
+			"mesh":40,
+			"name":"House.009",
+			"rotation":[
+				0,
+				-1,
+				0,
+				4.371138828673793e-08
+			],
+			"translation":[
+				-0.2999998927116394,
+				0,
+				-110
+			]
+		},
+		{
+			"mesh":40,
+			"name":"House.010",
+			"rotation":[
+				0,
+				-1,
+				0,
+				4.371138828673793e-08
+			],
+			"translation":[
+				0,
+				0,
+				-113
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.015",
+			"translation":[
+				0,
+				0,
+				-117.0999984741211
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.016",
+			"translation":[
+				0,
+				0,
+				-132.10000610351562
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.017",
+			"translation":[
+				0,
+				0,
+				-135.25
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.018",
+			"rotation":[
+				0,
+				0.7071068286895752,
+				0,
+				0.7071068286895752
+			],
+			"translation":[
+				-0.10000000149011612,
+				0,
+				-139.85000610351562
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.019",
+			"rotation":[
+				0,
+				0.7071068286895752,
+				0,
+				0.7071068286895752
+			],
+			"translation":[
+				-3.0999999046325684,
+				0,
+				-139.85000610351562
+			]
+		},
+		{
+			"mesh":40,
+			"name":"House.011",
+			"rotation":[
+				0,
+				-1,
+				0,
+				4.371138828673793e-08
+			],
+			"translation":[
+				0,
+				0,
+				-124
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.020",
+			"rotation":[
+				0,
+				-0.7071068286895752,
+				0,
+				0.7071068286895752
+			],
+			"translation":[
+				-6,
+				0,
+				-144.05166625976562
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.021",
+			"translation":[
+				-3,
+				0,
+				-147
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.022",
+			"rotation":[
+				0,
+				-0.7071068286895752,
+				0,
+				0.7071068286895752
+			],
+			"translation":[
+				-3,
+				0,
+				-150
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.023",
+			"translation":[
+				0,
+				0,
+				-153
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.024",
+			"rotation":[
+				0,
+				0.7071068286895752,
+				0,
+				0.7071068286895752
+			],
+			"translation":[
+				0,
+				0,
+				-159
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.025",
+			"translation":[
+				-1.7999999523162842,
+				0,
+				-159
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.026",
+			"translation":[
+				-1.7999999523162842,
+				0,
+				-162
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.027",
+			"translation":[
+				-1.7999999523162842,
+				0,
+				-165
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.028",
+			"rotation":[
+				0,
+				-0.7071068286895752,
+				0,
+				0.7071068286895752
+			],
+			"translation":[
+				-3,
+				0,
+				-168
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.029",
+			"rotation":[
+				0,
+				-0.7071068286895752,
+				0,
+				0.7071068286895752
+			],
+			"translation":[
+				0,
+				0,
+				-188
+			]
+		},
+		{
+			"mesh":40,
+			"name":"House.012",
+			"rotation":[
+				0,
+				-1,
+				0,
+				4.371138828673793e-08
+			],
+			"translation":[
+				0,
+				0,
+				-174
+			]
+		},
+		{
+			"mesh":41,
+			"name":"House2.030",
+			"translation":[
+				0,
+				0,
+				-185.25
+			]
+		},
+		{
+			"mesh":40,
+			"name":"House.013",
+			"rotation":[
+				0,
+				-1,
+				0,
+				4.371138828673793e-08
+			],
+			"translation":[
+				0,
+				0,
+				-177
+			]
+		},
+		{
+			"children":[
 				152,
 				153,
 				154,
@@ -2311,141 +2672,8 @@
 				156,
 				157,
 				158,
-				159
-			],
-			"name":"houses"
-		},
-		{
-			"mesh":37,
-			"name":"trafficLight",
-			"rotation":[
-				0,
-				-1,
-				0,
-				4.371139183945161e-08
-			],
-			"scale":[
-				0.2808440625667572,
-				0.2808440625667572,
-				0.2808440625667572
-			],
-			"translation":[
-				3,
-				0,
-				-44
-			]
-		},
-		{
-			"mesh":38,
-			"name":"crosswalk",
-			"translation":[
-				0,
-				-0.09000000357627869,
-				-44
-			]
-		},
-		{
-			"mesh":37,
-			"name":"trafficLight.001",
-			"scale":[
-				0.2808440625667572,
-				0.2808440625667572,
-				0.2808440625667572
-			],
-			"translation":[
-				0,
-				0,
-				-48
-			]
-		},
-		{
-			"mesh":37,
-			"name":"trafficLight.002",
-			"rotation":[
-				0,
-				-1,
-				0,
-				4.371139183945161e-08
-			],
-			"scale":[
-				0.2808440625667572,
-				0.2808440625667572,
-				0.2808440625667572
-			],
-			"translation":[
-				3,
-				0,
-				-92
-			]
-		},
-		{
-			"mesh":38,
-			"name":"crosswalk.001",
-			"translation":[
-				0,
-				-0.09000000357627869,
-				-92
-			]
-		},
-		{
-			"mesh":37,
-			"name":"trafficLight.003",
-			"scale":[
-				0.2808440625667572,
-				0.2808440625667572,
-				0.2808440625667572
-			],
-			"translation":[
-				0,
-				0,
-				-96
-			]
-		},
-		{
-			"mesh":37,
-			"name":"trafficLight.004",
-			"rotation":[
-				0,
-				-1,
-				0,
-				4.371139183945161e-08
-			],
-			"scale":[
-				0.2808440625667572,
-				0.2808440625667572,
-				0.2808440625667572
-			],
-			"translation":[
-				3,
-				0,
-				-140
-			]
-		},
-		{
-			"mesh":37,
-			"name":"trafficLight.005",
-			"scale":[
-				0.2808440625667572,
-				0.2808440625667572,
-				0.2808440625667572
-			],
-			"translation":[
-				0,
-				0,
-				-144
-			]
-		},
-		{
-			"mesh":38,
-			"name":"crosswalk.002",
-			"translation":[
-				0,
-				-0.09000000357627869,
-				-140
-			]
-		},
-		{
-			"children":[
+				159,
+				160,
 				161,
 				162,
 				163,
@@ -2454,336 +2682,8 @@
 				166,
 				167,
 				168,
-				169
-			],
-			"name":"trafficLights"
-		},
-		{
-			"mesh":39,
-			"name":"puddle",
-			"translation":[
-				0,
-				0,
-				-3
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.001",
-			"translation":[
-				1,
-				0,
-				-7
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.002",
-			"translation":[
-				0,
-				0,
-				-11
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.003",
-			"translation":[
-				1,
-				0,
-				-18
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.004",
-			"translation":[
-				2,
-				0,
-				-26
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.005",
-			"translation":[
-				1,
-				0,
-				-31
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.006",
-			"translation":[
-				1,
-				0,
-				-39
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.007",
-			"translation":[
-				0,
-				0,
-				-42
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.008",
-			"translation":[
-				1,
-				0,
-				-49
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.009",
-			"translation":[
-				0,
-				0,
-				-54
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.010",
-			"translation":[
-				1,
-				0,
-				-57
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.011",
-			"translation":[
-				2,
-				0,
-				-65
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.012",
-			"translation":[
-				0,
-				0,
-				-70
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.013",
-			"translation":[
-				1,
-				0,
-				-76
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.014",
-			"translation":[
-				0,
-				0,
-				-83
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.015",
-			"translation":[
-				1,
-				0,
-				-87
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.016",
-			"translation":[
-				1,
-				0,
-				-96
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.017",
-			"translation":[
-				2,
-				0,
-				-102
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.018",
-			"translation":[
-				1,
-				0,
-				-108
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.019",
-			"translation":[
-				0,
-				0,
-				-114
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.020",
-			"translation":[
-				1,
-				0,
-				-119
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.021",
-			"translation":[
-				2,
-				0,
-				-124
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.022",
-			"translation":[
-				0,
-				0,
-				-128
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.023",
-			"translation":[
-				1,
-				0,
-				-133
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.024",
-			"translation":[
-				0,
-				0,
-				-138
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.025",
-			"translation":[
-				2,
-				0,
-				-144
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.026",
-			"translation":[
-				1,
-				0,
-				-147
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.027",
-			"translation":[
-				0,
-				0,
-				-150
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.028",
-			"translation":[
-				1,
-				0,
-				-156
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.029",
-			"translation":[
-				2,
-				0,
-				-161
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.030",
-			"translation":[
-				0,
-				0,
-				-165
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.031",
-			"translation":[
-				1,
-				0,
-				-168
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.032",
-			"translation":[
-				0,
-				0,
-				-173
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.033",
-			"translation":[
-				1,
-				0,
-				-176
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.034",
-			"translation":[
-				2,
-				0,
-				-180
-			]
-		},
-		{
-			"mesh":39,
-			"name":"puddle.035",
-			"translation":[
-				0,
-				0,
-				-182
-			]
-		},
-		{
-			"children":[
+				169,
+				170,
 				171,
 				172,
 				173,
@@ -2809,8 +2709,141 @@
 				193,
 				194,
 				195,
-				196,
-				197,
+				196
+			],
+			"name":"houses"
+		},
+		{
+			"mesh":42,
+			"name":"trafficLight",
+			"rotation":[
+				0,
+				-1,
+				0,
+				4.371139183945161e-08
+			],
+			"scale":[
+				0.2808440625667572,
+				0.2808440625667572,
+				0.2808440625667572
+			],
+			"translation":[
+				3,
+				0,
+				-44
+			]
+		},
+		{
+			"mesh":43,
+			"name":"crosswalk",
+			"translation":[
+				0,
+				-0.09000000357627869,
+				-44
+			]
+		},
+		{
+			"mesh":42,
+			"name":"trafficLight.001",
+			"scale":[
+				0.2808440625667572,
+				0.2808440625667572,
+				0.2808440625667572
+			],
+			"translation":[
+				0,
+				0,
+				-48
+			]
+		},
+		{
+			"mesh":42,
+			"name":"trafficLight.002",
+			"rotation":[
+				0,
+				-1,
+				0,
+				4.371139183945161e-08
+			],
+			"scale":[
+				0.2808440625667572,
+				0.2808440625667572,
+				0.2808440625667572
+			],
+			"translation":[
+				3,
+				0,
+				-92
+			]
+		},
+		{
+			"mesh":43,
+			"name":"crosswalk.001",
+			"translation":[
+				0,
+				-0.09000000357627869,
+				-92
+			]
+		},
+		{
+			"mesh":42,
+			"name":"trafficLight.003",
+			"scale":[
+				0.2808440625667572,
+				0.2808440625667572,
+				0.2808440625667572
+			],
+			"translation":[
+				0,
+				0,
+				-96
+			]
+		},
+		{
+			"mesh":42,
+			"name":"trafficLight.004",
+			"rotation":[
+				0,
+				-1,
+				0,
+				4.371139183945161e-08
+			],
+			"scale":[
+				0.2808440625667572,
+				0.2808440625667572,
+				0.2808440625667572
+			],
+			"translation":[
+				3,
+				0,
+				-140
+			]
+		},
+		{
+			"mesh":42,
+			"name":"trafficLight.005",
+			"scale":[
+				0.2808440625667572,
+				0.2808440625667572,
+				0.2808440625667572
+			],
+			"translation":[
+				0,
+				0,
+				-144
+			]
+		},
+		{
+			"mesh":43,
+			"name":"crosswalk.002",
+			"translation":[
+				0,
+				-0.09000000357627869,
+				-140
+			]
+		},
+		{
+			"children":[
 				198,
 				199,
 				200,
@@ -2821,10 +2854,375 @@
 				205,
 				206
 			],
+			"name":"trafficLights"
+		},
+		{
+			"mesh":44,
+			"name":"puddle",
+			"translation":[
+				0,
+				0,
+				-3
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.001",
+			"translation":[
+				1,
+				0,
+				-7
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.002",
+			"translation":[
+				0,
+				0,
+				-11
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.003",
+			"translation":[
+				1,
+				0,
+				-18
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.004",
+			"translation":[
+				2,
+				0,
+				-26
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.005",
+			"translation":[
+				1,
+				0,
+				-31
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.006",
+			"translation":[
+				1,
+				0,
+				-39
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.007",
+			"translation":[
+				0,
+				0,
+				-42
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.008",
+			"translation":[
+				1,
+				0,
+				-49
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.009",
+			"translation":[
+				0,
+				0,
+				-54
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.010",
+			"translation":[
+				1,
+				0,
+				-57
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.011",
+			"translation":[
+				2,
+				0,
+				-65
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.012",
+			"translation":[
+				0,
+				0,
+				-70
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.013",
+			"translation":[
+				1,
+				0,
+				-76
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.014",
+			"translation":[
+				0,
+				0,
+				-83
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.015",
+			"translation":[
+				1,
+				0,
+				-87
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.016",
+			"translation":[
+				1,
+				0,
+				-96
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.017",
+			"translation":[
+				2,
+				0,
+				-102
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.018",
+			"translation":[
+				1,
+				0,
+				-108
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.019",
+			"translation":[
+				0,
+				0,
+				-114
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.020",
+			"translation":[
+				1,
+				0,
+				-119
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.021",
+			"translation":[
+				2,
+				0,
+				-124
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.022",
+			"translation":[
+				0,
+				0,
+				-128
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.023",
+			"translation":[
+				1,
+				0,
+				-133
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.024",
+			"translation":[
+				0,
+				0,
+				-138
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.025",
+			"translation":[
+				2,
+				0,
+				-144
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.026",
+			"translation":[
+				1,
+				0,
+				-147
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.027",
+			"translation":[
+				0,
+				0,
+				-150
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.028",
+			"translation":[
+				1,
+				0,
+				-156
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.029",
+			"translation":[
+				2,
+				0,
+				-161
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.030",
+			"translation":[
+				0,
+				0,
+				-165
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.031",
+			"translation":[
+				1,
+				0,
+				-168
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.032",
+			"translation":[
+				0,
+				0,
+				-173
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.033",
+			"translation":[
+				1,
+				0,
+				-176
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.034",
+			"translation":[
+				2,
+				0,
+				-180
+			]
+		},
+		{
+			"mesh":44,
+			"name":"puddle.035",
+			"translation":[
+				0,
+				0,
+				-182
+			]
+		},
+		{
+			"children":[
+				208,
+				209,
+				210,
+				211,
+				212,
+				213,
+				214,
+				215,
+				216,
+				217,
+				218,
+				219,
+				220,
+				221,
+				222,
+				223,
+				224,
+				225,
+				226,
+				227,
+				228,
+				229,
+				230,
+				231,
+				232,
+				233,
+				234,
+				235,
+				236,
+				237,
+				238,
+				239,
+				240,
+				241,
+				242,
+				243
+			],
 			"name":"puddles"
 		},
 		{
-			"mesh":40,
+			"mesh":45,
 			"name":"hole",
 			"translation":[
 				-2.5,
@@ -2833,7 +3231,7 @@
 			]
 		},
 		{
-			"mesh":41,
+			"mesh":46,
 			"name":"lid",
 			"translation":[
 				-2.5,
@@ -2843,8 +3241,8 @@
 		},
 		{
 			"children":[
-				208,
-				209
+				245,
+				246
 			],
 			"name":"sewageHole.001",
 			"translation":[
@@ -2854,7 +3252,7 @@
 			]
 		},
 		{
-			"mesh":40,
+			"mesh":45,
 			"name":"hole.001",
 			"translation":[
 				-2.5,
@@ -2863,7 +3261,7 @@
 			]
 		},
 		{
-			"mesh":41,
+			"mesh":46,
 			"name":"lid.001",
 			"translation":[
 				-2.5,
@@ -2873,8 +3271,8 @@
 		},
 		{
 			"children":[
-				211,
-				212
+				248,
+				249
 			],
 			"name":"sewageHole.002",
 			"translation":[
@@ -2884,7 +3282,7 @@
 			]
 		},
 		{
-			"mesh":40,
+			"mesh":45,
 			"name":"hole.002",
 			"translation":[
 				-2.5,
@@ -2893,7 +3291,7 @@
 			]
 		},
 		{
-			"mesh":41,
+			"mesh":46,
 			"name":"lid.002",
 			"translation":[
 				-2.5,
@@ -2903,8 +3301,8 @@
 		},
 		{
 			"children":[
-				214,
-				215
+				251,
+				252
 			],
 			"name":"sewageHole.003",
 			"translation":[
@@ -2914,7 +3312,7 @@
 			]
 		},
 		{
-			"mesh":40,
+			"mesh":45,
 			"name":"hole.003",
 			"translation":[
 				-2.5,
@@ -2923,7 +3321,7 @@
 			]
 		},
 		{
-			"mesh":41,
+			"mesh":46,
 			"name":"lid.003",
 			"translation":[
 				-2.5,
@@ -2933,8 +3331,8 @@
 		},
 		{
 			"children":[
-				217,
-				218
+				254,
+				255
 			],
 			"name":"sewageHole.004",
 			"translation":[
@@ -2944,7 +3342,7 @@
 			]
 		},
 		{
-			"mesh":40,
+			"mesh":45,
 			"name":"hole.004",
 			"translation":[
 				-2.5,
@@ -2953,7 +3351,7 @@
 			]
 		},
 		{
-			"mesh":41,
+			"mesh":46,
 			"name":"lid.004",
 			"translation":[
 				-2.5,
@@ -2963,8 +3361,8 @@
 		},
 		{
 			"children":[
-				220,
-				221
+				257,
+				258
 			],
 			"name":"sewageHole.005",
 			"translation":[
@@ -2974,7 +3372,7 @@
 			]
 		},
 		{
-			"mesh":40,
+			"mesh":45,
 			"name":"hole.005",
 			"translation":[
 				-2.5,
@@ -2983,7 +3381,7 @@
 			]
 		},
 		{
-			"mesh":41,
+			"mesh":46,
 			"name":"lid.005",
 			"translation":[
 				-2.5,
@@ -2993,8 +3391,8 @@
 		},
 		{
 			"children":[
-				223,
-				224
+				260,
+				261
 			],
 			"name":"sewageHole.006",
 			"translation":[
@@ -3004,7 +3402,7 @@
 			]
 		},
 		{
-			"mesh":40,
+			"mesh":45,
 			"name":"hole.006",
 			"translation":[
 				-2.5,
@@ -3013,7 +3411,7 @@
 			]
 		},
 		{
-			"mesh":41,
+			"mesh":46,
 			"name":"lid.006",
 			"translation":[
 				-2.5,
@@ -3023,8 +3421,8 @@
 		},
 		{
 			"children":[
-				226,
-				227
+				263,
+				264
 			],
 			"name":"sewageHole.007",
 			"translation":[
@@ -3034,7 +3432,7 @@
 			]
 		},
 		{
-			"mesh":40,
+			"mesh":45,
 			"name":"hole.007",
 			"translation":[
 				-2.5,
@@ -3043,7 +3441,7 @@
 			]
 		},
 		{
-			"mesh":41,
+			"mesh":46,
 			"name":"lid.007",
 			"translation":[
 				-2.5,
@@ -3053,8 +3451,8 @@
 		},
 		{
 			"children":[
-				229,
-				230
+				266,
+				267
 			],
 			"name":"sewageHole.008",
 			"translation":[
@@ -3065,19 +3463,19 @@
 		},
 		{
 			"children":[
-				210,
-				213,
-				216,
-				219,
-				222,
-				225,
-				228,
-				231
+				247,
+				250,
+				253,
+				256,
+				259,
+				262,
+				265,
+				268
 			],
 			"name":"sewageHoles"
 		},
 		{
-			"mesh":42,
+			"mesh":47,
 			"name":"chargingStation",
 			"translation":[
 				-0.5,
@@ -3086,7 +3484,7 @@
 			]
 		},
 		{
-			"mesh":42,
+			"mesh":47,
 			"name":"chargingStation.001",
 			"translation":[
 				-0.5,
@@ -3095,7 +3493,7 @@
 			]
 		},
 		{
-			"mesh":42,
+			"mesh":47,
 			"name":"chargingStation.002",
 			"translation":[
 				-0.5,
@@ -3105,22 +3503,22 @@
 		},
 		{
 			"children":[
-				233,
-				234,
-				235
+				270,
+				271,
+				272
 			],
 			"name":"chargingStations"
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight",
 			"translation":[
 				0.5199999809265137,
@@ -3130,9 +3528,9 @@
 		},
 		{
 			"children":[
-				237,
-				238,
-				239
+				274,
+				275,
+				276
 			],
 			"name":"lampPostEmpty",
 			"translation":[
@@ -3142,15 +3540,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.001"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.001"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.001",
 			"translation":[
 				0.5199999809265137,
@@ -3160,9 +3558,9 @@
 		},
 		{
 			"children":[
-				241,
-				242,
-				243
+				278,
+				279,
+				280
 			],
 			"name":"lampPostEmpty.001",
 			"translation":[
@@ -3172,15 +3570,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.002"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.002"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.002",
 			"translation":[
 				0.5199999809265137,
@@ -3190,9 +3588,9 @@
 		},
 		{
 			"children":[
-				245,
-				246,
-				247
+				282,
+				283,
+				284
 			],
 			"name":"lampPostEmpty.002",
 			"translation":[
@@ -3202,15 +3600,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.003"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.003"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.003",
 			"translation":[
 				0.5199999809265137,
@@ -3220,9 +3618,9 @@
 		},
 		{
 			"children":[
-				249,
-				250,
-				251
+				286,
+				287,
+				288
 			],
 			"name":"lampPostEmpty.003",
 			"translation":[
@@ -3232,15 +3630,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.004"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.004"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.004",
 			"translation":[
 				0.5199999809265137,
@@ -3250,9 +3648,9 @@
 		},
 		{
 			"children":[
-				253,
-				254,
-				255
+				290,
+				291,
+				292
 			],
 			"name":"lampPostEmpty.004",
 			"translation":[
@@ -3262,15 +3660,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.005"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.005"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.005",
 			"translation":[
 				0.5199999809265137,
@@ -3280,9 +3678,9 @@
 		},
 		{
 			"children":[
-				257,
-				258,
-				259
+				294,
+				295,
+				296
 			],
 			"name":"lampPostEmpty.005",
 			"translation":[
@@ -3292,15 +3690,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.006"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.006"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.006",
 			"translation":[
 				0.5199999809265137,
@@ -3310,9 +3708,9 @@
 		},
 		{
 			"children":[
-				261,
-				262,
-				263
+				298,
+				299,
+				300
 			],
 			"name":"lampPostEmpty.006",
 			"translation":[
@@ -3322,15 +3720,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.007"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.007"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.007",
 			"translation":[
 				0.5199999809265137,
@@ -3340,9 +3738,9 @@
 		},
 		{
 			"children":[
-				265,
-				266,
-				267
+				302,
+				303,
+				304
 			],
 			"name":"lampPostEmpty.007",
 			"translation":[
@@ -3352,15 +3750,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.008"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.008"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.008",
 			"translation":[
 				0.5199999809265137,
@@ -3370,9 +3768,9 @@
 		},
 		{
 			"children":[
-				269,
-				270,
-				271
+				306,
+				307,
+				308
 			],
 			"name":"lampPostEmpty.008",
 			"translation":[
@@ -3382,15 +3780,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.009"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.009"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.009",
 			"translation":[
 				0.5199999809265137,
@@ -3400,9 +3798,9 @@
 		},
 		{
 			"children":[
-				273,
-				274,
-				275
+				310,
+				311,
+				312
 			],
 			"name":"lampPostEmpty.009",
 			"translation":[
@@ -3412,15 +3810,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.010"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.010"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.010",
 			"translation":[
 				0.5199999809265137,
@@ -3430,9 +3828,9 @@
 		},
 		{
 			"children":[
-				277,
-				278,
-				279
+				314,
+				315,
+				316
 			],
 			"name":"lampPostEmpty.010",
 			"translation":[
@@ -3442,15 +3840,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.011"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.011"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.011",
 			"translation":[
 				0.5199999809265137,
@@ -3460,9 +3858,9 @@
 		},
 		{
 			"children":[
-				281,
-				282,
-				283
+				318,
+				319,
+				320
 			],
 			"name":"lampPostEmpty.011",
 			"translation":[
@@ -3472,15 +3870,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.012"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.012"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.012",
 			"translation":[
 				0.5199999809265137,
@@ -3490,9 +3888,9 @@
 		},
 		{
 			"children":[
-				285,
-				286,
-				287
+				322,
+				323,
+				324
 			],
 			"name":"lampPostEmpty.012",
 			"translation":[
@@ -3502,15 +3900,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.013"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.013"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.013",
 			"translation":[
 				0.5199999809265137,
@@ -3520,9 +3918,9 @@
 		},
 		{
 			"children":[
-				289,
-				290,
-				291
+				326,
+				327,
+				328
 			],
 			"name":"lampPostEmpty.013",
 			"translation":[
@@ -3532,15 +3930,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.014"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.014"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.014",
 			"translation":[
 				0.5199999809265137,
@@ -3550,9 +3948,9 @@
 		},
 		{
 			"children":[
-				293,
-				294,
-				295
+				330,
+				331,
+				332
 			],
 			"name":"lampPostEmpty.014",
 			"translation":[
@@ -3562,15 +3960,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.015"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.015"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.015",
 			"translation":[
 				0.5199999809265137,
@@ -3580,9 +3978,9 @@
 		},
 		{
 			"children":[
-				297,
-				298,
-				299
+				334,
+				335,
+				336
 			],
 			"name":"lampPostEmpty.015",
 			"translation":[
@@ -3592,15 +3990,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.016"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.016"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.016",
 			"translation":[
 				0.5199999809265137,
@@ -3610,9 +4008,9 @@
 		},
 		{
 			"children":[
-				301,
-				302,
-				303
+				338,
+				339,
+				340
 			],
 			"name":"lampPostEmpty.016",
 			"translation":[
@@ -3622,15 +4020,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.017"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.017"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.017",
 			"translation":[
 				0.5199999809265137,
@@ -3640,9 +4038,9 @@
 		},
 		{
 			"children":[
-				305,
-				306,
-				307
+				342,
+				343,
+				344
 			],
 			"name":"lampPostEmpty.017",
 			"translation":[
@@ -3652,15 +4050,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.018"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.018"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.018",
 			"translation":[
 				0.5199999809265137,
@@ -3670,9 +4068,9 @@
 		},
 		{
 			"children":[
-				309,
-				310,
-				311
+				346,
+				347,
+				348
 			],
 			"name":"lampPostEmpty.018",
 			"translation":[
@@ -3682,15 +4080,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.019"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.019"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.019",
 			"translation":[
 				0.5199999809265137,
@@ -3700,9 +4098,9 @@
 		},
 		{
 			"children":[
-				313,
-				314,
-				315
+				350,
+				351,
+				352
 			],
 			"name":"lampPostEmpty.019",
 			"translation":[
@@ -3712,15 +4110,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.020"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.020"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.020",
 			"translation":[
 				0.5199999809265137,
@@ -3730,9 +4128,9 @@
 		},
 		{
 			"children":[
-				317,
-				318,
-				319
+				354,
+				355,
+				356
 			],
 			"name":"lampPostEmpty.020",
 			"translation":[
@@ -3742,15 +4140,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.021"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.021"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.021",
 			"translation":[
 				0.5199999809265137,
@@ -3760,9 +4158,9 @@
 		},
 		{
 			"children":[
-				321,
-				322,
-				323
+				358,
+				359,
+				360
 			],
 			"name":"lampPostEmpty.021",
 			"translation":[
@@ -3772,15 +4170,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.022"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.022"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.022",
 			"translation":[
 				0.5199999809265137,
@@ -3790,9 +4188,9 @@
 		},
 		{
 			"children":[
-				325,
-				326,
-				327
+				362,
+				363,
+				364
 			],
 			"name":"lampPostEmpty.022",
 			"translation":[
@@ -3802,15 +4200,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.023"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.023"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.023",
 			"translation":[
 				0.5199999809265137,
@@ -3820,9 +4218,9 @@
 		},
 		{
 			"children":[
-				329,
-				330,
-				331
+				366,
+				367,
+				368
 			],
 			"name":"lampPostEmpty.023",
 			"translation":[
@@ -3832,15 +4230,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.024"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.024"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.024",
 			"translation":[
 				0.5199999809265137,
@@ -3850,9 +4248,9 @@
 		},
 		{
 			"children":[
-				333,
-				334,
-				335
+				370,
+				371,
+				372
 			],
 			"name":"lampPostEmpty.024",
 			"translation":[
@@ -3862,15 +4260,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.025"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.025"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.025",
 			"translation":[
 				0.5199999809265137,
@@ -3880,9 +4278,9 @@
 		},
 		{
 			"children":[
-				337,
-				338,
-				339
+				374,
+				375,
+				376
 			],
 			"name":"lampPostEmpty.025",
 			"translation":[
@@ -3892,15 +4290,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.026"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.026"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.026",
 			"translation":[
 				0.5199999809265137,
@@ -3910,9 +4308,9 @@
 		},
 		{
 			"children":[
-				341,
-				342,
-				343
+				378,
+				379,
+				380
 			],
 			"name":"lampPostEmpty.026",
 			"translation":[
@@ -3922,15 +4320,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.027"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.027"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.027",
 			"translation":[
 				0.5199999809265137,
@@ -3940,9 +4338,9 @@
 		},
 		{
 			"children":[
-				345,
-				346,
-				347
+				382,
+				383,
+				384
 			],
 			"name":"lampPostEmpty.027",
 			"translation":[
@@ -3952,15 +4350,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.028"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.028"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.028",
 			"translation":[
 				0.5199999809265137,
@@ -3970,9 +4368,9 @@
 		},
 		{
 			"children":[
-				349,
-				350,
-				351
+				386,
+				387,
+				388
 			],
 			"name":"lampPostEmpty.028",
 			"translation":[
@@ -3982,15 +4380,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.029"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.029"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.029",
 			"translation":[
 				0.5199999809265137,
@@ -4000,9 +4398,9 @@
 		},
 		{
 			"children":[
-				353,
-				354,
-				355
+				390,
+				391,
+				392
 			],
 			"name":"lampPostEmpty.029",
 			"translation":[
@@ -4012,15 +4410,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.030"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.030"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.030",
 			"translation":[
 				0.5199999809265137,
@@ -4030,9 +4428,9 @@
 		},
 		{
 			"children":[
-				357,
-				358,
-				359
+				394,
+				395,
+				396
 			],
 			"name":"lampPostEmpty.030",
 			"translation":[
@@ -4042,15 +4440,15 @@
 			]
 		},
 		{
-			"mesh":43,
+			"mesh":48,
 			"name":"lampPost.031"
 		},
 		{
-			"mesh":44,
+			"mesh":49,
 			"name":"lampPostHead.031"
 		},
 		{
-			"mesh":45,
+			"mesh":50,
 			"name":"lampPostLight.031",
 			"translation":[
 				0.5199999809265137,
@@ -4060,9 +4458,9 @@
 		},
 		{
 			"children":[
-				361,
-				362,
-				363
+				398,
+				399,
+				400
 			],
 			"name":"lampPostEmpty.031",
 			"translation":[
@@ -4073,43 +4471,43 @@
 		},
 		{
 			"children":[
-				240,
-				244,
-				248,
-				252,
-				256,
-				260,
-				264,
-				268,
-				272,
-				276,
-				280,
-				284,
-				288,
-				292,
-				296,
-				300,
-				304,
-				308,
-				312,
-				316,
-				320,
-				324,
-				328,
-				332,
-				336,
-				340,
-				344,
-				348,
-				352,
-				356,
-				360,
-				364
+				277,
+				281,
+				285,
+				289,
+				293,
+				297,
+				301,
+				305,
+				309,
+				313,
+				317,
+				321,
+				325,
+				329,
+				333,
+				337,
+				341,
+				345,
+				349,
+				353,
+				357,
+				361,
+				365,
+				369,
+				373,
+				377,
+				381,
+				385,
+				389,
+				393,
+				397,
+				401
 			],
 			"name":"lamps"
 		},
 		{
-			"mesh":46,
+			"mesh":51,
 			"name":"busStopback",
 			"rotation":[
 				0.5,
@@ -4124,7 +4522,7 @@
 			]
 		},
 		{
-			"mesh":47,
+			"mesh":52,
 			"name":"busStopLeft",
 			"rotation":[
 				0.5,
@@ -4139,7 +4537,7 @@
 			]
 		},
 		{
-			"mesh":48,
+			"mesh":53,
 			"name":"busStopRight",
 			"rotation":[
 				0.5,
@@ -4154,7 +4552,7 @@
 			]
 		},
 		{
-			"mesh":49,
+			"mesh":54,
 			"name":"busStopRoof",
 			"rotation":[
 				0.5,
@@ -4170,10 +4568,10 @@
 		},
 		{
 			"children":[
-				366,
-				367,
-				368,
-				369
+				403,
+				404,
+				405,
+				406
 			],
 			"name":"busStopEmpty",
 			"translation":[
@@ -4183,7 +4581,7 @@
 			]
 		},
 		{
-			"mesh":46,
+			"mesh":51,
 			"name":"busStopback.001",
 			"rotation":[
 				0.5,
@@ -4198,7 +4596,7 @@
 			]
 		},
 		{
-			"mesh":47,
+			"mesh":52,
 			"name":"busStopLeft.001",
 			"rotation":[
 				0.5,
@@ -4213,7 +4611,7 @@
 			]
 		},
 		{
-			"mesh":48,
+			"mesh":53,
 			"name":"busStopRight.001",
 			"rotation":[
 				0.5,
@@ -4228,7 +4626,7 @@
 			]
 		},
 		{
-			"mesh":49,
+			"mesh":54,
 			"name":"busStopRoof.001",
 			"rotation":[
 				0.5,
@@ -4244,10 +4642,10 @@
 		},
 		{
 			"children":[
-				371,
-				372,
-				373,
-				374
+				408,
+				409,
+				410,
+				411
 			],
 			"name":"busStopEmpty.001",
 			"translation":[
@@ -4257,7 +4655,7 @@
 			]
 		},
 		{
-			"mesh":46,
+			"mesh":51,
 			"name":"busStopback.002",
 			"rotation":[
 				0.5,
@@ -4272,7 +4670,7 @@
 			]
 		},
 		{
-			"mesh":47,
+			"mesh":52,
 			"name":"busStopLeft.002",
 			"rotation":[
 				0.5,
@@ -4287,7 +4685,7 @@
 			]
 		},
 		{
-			"mesh":48,
+			"mesh":53,
 			"name":"busStopRight.002",
 			"rotation":[
 				0.5,
@@ -4302,7 +4700,7 @@
 			]
 		},
 		{
-			"mesh":49,
+			"mesh":54,
 			"name":"busStopRoof.002",
 			"rotation":[
 				0.5,
@@ -4318,10 +4716,10 @@
 		},
 		{
 			"children":[
-				376,
-				377,
-				378,
-				379
+				413,
+				414,
+				415,
+				416
 			],
 			"name":"busStopEmpty.002",
 			"translation":[
@@ -4331,7 +4729,7 @@
 			]
 		},
 		{
-			"mesh":46,
+			"mesh":51,
 			"name":"busStopback.003",
 			"rotation":[
 				0.5,
@@ -4346,7 +4744,7 @@
 			]
 		},
 		{
-			"mesh":47,
+			"mesh":52,
 			"name":"busStopLeft.003",
 			"rotation":[
 				0.5,
@@ -4361,7 +4759,7 @@
 			]
 		},
 		{
-			"mesh":48,
+			"mesh":53,
 			"name":"busStopRight.003",
 			"rotation":[
 				0.5,
@@ -4376,7 +4774,7 @@
 			]
 		},
 		{
-			"mesh":49,
+			"mesh":54,
 			"name":"busStopRoof.003",
 			"rotation":[
 				0.5,
@@ -4392,10 +4790,10 @@
 		},
 		{
 			"children":[
-				381,
-				382,
-				383,
-				384
+				418,
+				419,
+				420,
+				421
 			],
 			"name":"busStopEmpty.003",
 			"translation":[
@@ -4405,7 +4803,7 @@
 			]
 		},
 		{
-			"mesh":46,
+			"mesh":51,
 			"name":"busStopback.004",
 			"rotation":[
 				0.5,
@@ -4420,7 +4818,7 @@
 			]
 		},
 		{
-			"mesh":47,
+			"mesh":52,
 			"name":"busStopLeft.004",
 			"rotation":[
 				0.5,
@@ -4435,7 +4833,7 @@
 			]
 		},
 		{
-			"mesh":48,
+			"mesh":53,
 			"name":"busStopRight.004",
 			"rotation":[
 				0.5,
@@ -4450,7 +4848,7 @@
 			]
 		},
 		{
-			"mesh":49,
+			"mesh":54,
 			"name":"busStopRoof.004",
 			"rotation":[
 				0.5,
@@ -4466,10 +4864,10 @@
 		},
 		{
 			"children":[
-				386,
-				387,
-				388,
-				389
+				423,
+				424,
+				425,
+				426
 			],
 			"name":"busStopEmpty.004",
 			"translation":[
@@ -4479,7 +4877,7 @@
 			]
 		},
 		{
-			"mesh":46,
+			"mesh":51,
 			"name":"busStopback.005",
 			"rotation":[
 				0.5,
@@ -4494,7 +4892,7 @@
 			]
 		},
 		{
-			"mesh":47,
+			"mesh":52,
 			"name":"busStopLeft.005",
 			"rotation":[
 				0.5,
@@ -4509,7 +4907,7 @@
 			]
 		},
 		{
-			"mesh":48,
+			"mesh":53,
 			"name":"busStopRight.005",
 			"rotation":[
 				0.5,
@@ -4524,7 +4922,7 @@
 			]
 		},
 		{
-			"mesh":49,
+			"mesh":54,
 			"name":"busStopRoof.005",
 			"rotation":[
 				0.5,
@@ -4540,10 +4938,10 @@
 		},
 		{
 			"children":[
-				391,
-				392,
-				393,
-				394
+				428,
+				429,
+				430,
+				431
 			],
 			"name":"busStopEmpty.005",
 			"translation":[
@@ -4553,7 +4951,7 @@
 			]
 		},
 		{
-			"mesh":46,
+			"mesh":51,
 			"name":"busStopback.006",
 			"rotation":[
 				0.5,
@@ -4568,7 +4966,7 @@
 			]
 		},
 		{
-			"mesh":47,
+			"mesh":52,
 			"name":"busStopLeft.006",
 			"rotation":[
 				0.5,
@@ -4583,7 +4981,7 @@
 			]
 		},
 		{
-			"mesh":48,
+			"mesh":53,
 			"name":"busStopRight.006",
 			"rotation":[
 				0.5,
@@ -4598,7 +4996,7 @@
 			]
 		},
 		{
-			"mesh":49,
+			"mesh":54,
 			"name":"busStopRoof.006",
 			"rotation":[
 				0.5,
@@ -4614,10 +5012,10 @@
 		},
 		{
 			"children":[
-				396,
-				397,
-				398,
-				399
+				433,
+				434,
+				435,
+				436
 			],
 			"name":"busStopEmpty.006",
 			"translation":[
@@ -4628,18 +5026,18 @@
 		},
 		{
 			"children":[
-				370,
-				375,
-				380,
-				385,
-				390,
-				395,
-				400
+				407,
+				412,
+				417,
+				422,
+				427,
+				432,
+				437
 			],
 			"name":"busStops"
 		},
 		{
-			"mesh":50,
+			"mesh":55,
 			"name":"barrier",
 			"rotation":[
 				0,
@@ -4655,12 +5053,12 @@
 		},
 		{
 			"children":[
-				402
+				439
 			],
 			"name":"barriers"
 		},
 		{
-			"mesh":51,
+			"mesh":56,
 			"name":"epuddle",
 			"translation":[
 				-1.5,
@@ -4669,7 +5067,7 @@
 			]
 		},
 		{
-			"mesh":52,
+			"mesh":57,
 			"name":"pole",
 			"translation":[
 				-1.5,
@@ -4679,8 +5077,8 @@
 		},
 		{
 			"children":[
-				404,
-				405
+				441,
+				442
 			],
 			"name":"electrifiedPuddle",
 			"translation":[
@@ -4690,7 +5088,7 @@
 			]
 		},
 		{
-			"mesh":51,
+			"mesh":56,
 			"name":"epuddle.001",
 			"translation":[
 				-1.5,
@@ -4699,7 +5097,7 @@
 			]
 		},
 		{
-			"mesh":52,
+			"mesh":57,
 			"name":"pole.001",
 			"translation":[
 				-1.5,
@@ -4709,8 +5107,8 @@
 		},
 		{
 			"children":[
-				407,
-				408
+				444,
+				445
 			],
 			"name":"electrifiedPuddle.001",
 			"translation":[
@@ -4720,7 +5118,7 @@
 			]
 		},
 		{
-			"mesh":51,
+			"mesh":56,
 			"name":"epuddle.002",
 			"translation":[
 				-1.5,
@@ -4729,7 +5127,7 @@
 			]
 		},
 		{
-			"mesh":52,
+			"mesh":57,
 			"name":"pole.002",
 			"translation":[
 				-1.5,
@@ -4739,8 +5137,8 @@
 		},
 		{
 			"children":[
-				410,
-				411
+				447,
+				448
 			],
 			"name":"electrifiedPuddle.002",
 			"translation":[
@@ -4750,7 +5148,7 @@
 			]
 		},
 		{
-			"mesh":51,
+			"mesh":56,
 			"name":"epuddle.003",
 			"translation":[
 				-1.5,
@@ -4759,7 +5157,7 @@
 			]
 		},
 		{
-			"mesh":52,
+			"mesh":57,
 			"name":"pole.003",
 			"translation":[
 				-1.5,
@@ -4769,8 +5167,8 @@
 		},
 		{
 			"children":[
-				413,
-				414
+				450,
+				451
 			],
 			"name":"electrifiedPuddle.003",
 			"translation":[
@@ -4780,74 +5178,11 @@
 			]
 		},
 		{
-			"mesh":53,
-			"name":"tree2",
-			"rotation":[
-				0.6031988263130188,
-				0.36898669600486755,
-				-0.36898672580718994,
-				0.6031988859176636
-			],
-			"scale":[
-				3.3602664470672607,
-				4.139353275299072,
-				4.382322788238525
-			],
-			"translation":[
-				-1.1097033023834229,
-				1.5359251499176025,
-				-13.883907318115234
-			]
-		},
-		{
-			"mesh":54,
-			"name":"tree2.001",
-			"rotation":[
-				0.6140118837356567,
-				0.35069844126701355,
-				-0.35069847106933594,
-				0.6140118837356567
-			],
-			"scale":[
-				3.075159788131714,
-				3.075159788131714,
-				3.0751593112945557
-			],
-			"translation":[
-				-2.0387558937072754,
-				1.9568731784820557,
-				-12.821537971496582
-			]
-		},
-		{
-			"mesh":55,
-			"name":"fog",
-			"rotation":[
-				0.5,
-				0.5,
-				-0.5,
-				0.4999999701976776
-			],
-			"scale":[
-				4.610201358795166,
-				4.610201358795166,
-				4.610201358795166
-			],
-			"translation":[
-				-6.121050834655762,
-				0.5789228677749634,
-				-45.762489318847656
-			]
-		},
-		{
 			"children":[
-				406,
-				409,
-				412,
-				415,
-				416,
-				417,
-				418
+				443,
+				446,
+				449,
+				452
 			],
 			"name":"electrified puddles"
 		},
@@ -4857,18 +5192,18 @@
 				1,
 				2,
 				15,
-				34,
-				38,
-				114,
-				160,
-				170,
+				35,
+				39,
+				151,
+				197,
 				207,
-				232,
-				236,
-				365,
-				401,
-				403,
-				419
+				244,
+				269,
+				273,
+				402,
+				438,
+				440,
+				453
 			],
 			"name":"Scene Collection"
 		}
@@ -5009,10 +5344,42 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"HouseMATbaked",
+			"name":"grass",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":11
+				},
+				"metallicFactor":0
+			}
+		},
+		{
+			"alphaMode":"BLEND",
+			"doubleSided":true,
+			"name":"tree2",
+			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":12
+				},
+				"metallicFactor":0
+			}
+		},
+		{
+			"alphaMode":"BLEND",
+			"doubleSided":true,
+			"name":"tree3",
+			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":13
+				},
+				"metallicFactor":0
+			}
+		},
+		{
+			"doubleSided":true,
+			"name":"HouseMATbaked",
+			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":14
 				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
@@ -5023,7 +5390,7 @@
 			"name":"House2MATbaked",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":12
+					"index":15
 				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
@@ -5038,11 +5405,11 @@
 			},
 			"name":"Material_#25",
 			"normalTexture":{
-				"index":13
+				"index":16
 			},
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":14
+					"index":17
 				},
 				"metallicFactor":0
 			}
@@ -5053,7 +5420,7 @@
 			"name":"crosswalkMAT",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":15
+					"index":18
 				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
@@ -5065,7 +5432,7 @@
 			"name":"puddleMAT",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":16
+					"index":19
 				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
@@ -5077,7 +5444,7 @@
 			"name":"sewageMAt.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":17
+					"index":20
 				},
 				"metallicFactor":0
 			}
@@ -5087,7 +5454,7 @@
 			"name":"sewagelidMAT",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":18
+					"index":21
 				},
 				"metallicFactor":0
 			}
@@ -5097,7 +5464,7 @@
 			"name":"chargingStationMATbaked",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":19
+					"index":22
 				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
@@ -5108,7 +5475,7 @@
 			"name":"lamppostMATbaked",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":20
+					"index":23
 				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
@@ -5120,7 +5487,7 @@
 			"name":"LampPostLightMAT",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":21
+					"index":24
 				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
@@ -5132,7 +5499,7 @@
 			"name":"busStopMATbaked",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":22
+					"index":25
 				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
@@ -5143,7 +5510,7 @@
 			"name":"Material",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":23
+					"index":26
 				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
@@ -5152,40 +5519,6 @@
 		{
 			"doubleSided":true,
 			"name":"epuddleMAT",
-			"pbrMetallicRoughness":{
-				"baseColorTexture":{
-					"index":24
-				},
-				"metallicFactor":0,
-				"roughnessFactor":0.5
-			}
-		},
-		{
-			"alphaMode":"BLEND",
-			"doubleSided":true,
-			"name":"tree2",
-			"pbrMetallicRoughness":{
-				"baseColorTexture":{
-					"index":25
-				},
-				"metallicFactor":0
-			}
-		},
-		{
-			"alphaMode":"BLEND",
-			"doubleSided":true,
-			"name":"tree3",
-			"pbrMetallicRoughness":{
-				"baseColorTexture":{
-					"index":26
-				},
-				"metallicFactor":0
-			}
-		},
-		{
-			"alphaMode":"BLEND",
-			"doubleSided":true,
-			"name":"fog",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":27
@@ -5645,7 +5978,7 @@
 			]
 		},
 		{
-			"name":"Sphere.001",
+			"name":"Cube.011",
 			"primitives":[
 				{
 					"attributes":{
@@ -5653,7 +5986,21 @@
 						"NORMAL":115,
 						"TEXCOORD_0":116
 					},
-					"indices":117,
+					"indices":74,
+					"material":4
+				}
+			]
+		},
+		{
+			"name":"Sphere.001",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":117,
+						"NORMAL":118,
+						"TEXCOORD_0":119
+					},
+					"indices":120,
 					"material":8
 				}
 			]
@@ -5663,11 +6010,11 @@
 			"primitives":[
 				{
 					"attributes":{
-						"POSITION":118,
-						"NORMAL":119,
-						"TEXCOORD_0":120
+						"POSITION":121,
+						"NORMAL":122,
+						"TEXCOORD_0":123
 					},
-					"indices":121,
+					"indices":124,
 					"material":9
 				}
 			]
@@ -5677,265 +6024,26 @@
 			"primitives":[
 				{
 					"attributes":{
-						"POSITION":122,
-						"NORMAL":123,
-						"TEXCOORD_0":124
+						"POSITION":125,
+						"NORMAL":126,
+						"TEXCOORD_0":127
 					},
-					"indices":121,
+					"indices":124,
 					"material":10
 				}
 			]
 		},
 		{
-			"name":"Cube.008",
+			"name":"Plane.013",
 			"primitives":[
 				{
 					"attributes":{
-						"POSITION":125,
-						"NORMAL":126,
-						"TEXCOORD_0":127
+						"POSITION":128,
+						"NORMAL":129,
+						"TEXCOORD_0":130
 					},
-					"indices":128,
+					"indices":124,
 					"material":11
-				}
-			]
-		},
-		{
-			"name":"Cube.009",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":129,
-						"NORMAL":130,
-						"TEXCOORD_0":131
-					},
-					"indices":132,
-					"material":12
-				}
-			]
-		},
-		{
-			"name":"Cylinder016",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":133,
-						"NORMAL":134,
-						"TEXCOORD_0":135
-					},
-					"indices":136,
-					"material":13
-				}
-			]
-		},
-		{
-			"name":"Plane.014",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":137,
-						"NORMAL":138,
-						"TEXCOORD_0":139
-					},
-					"indices":121,
-					"material":14
-				}
-			]
-		},
-		{
-			"name":"Plane",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":140,
-						"NORMAL":141,
-						"TEXCOORD_0":142
-					},
-					"indices":143,
-					"material":15
-				}
-			]
-		},
-		{
-			"name":"Plane.009",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":144,
-						"NORMAL":145,
-						"TEXCOORD_0":146
-					},
-					"indices":143,
-					"material":16
-				}
-			]
-		},
-		{
-			"name":"Cylinder.002",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":147,
-						"NORMAL":148,
-						"TEXCOORD_0":149
-					},
-					"indices":150,
-					"material":17
-				}
-			]
-		},
-		{
-			"name":"Plane.002",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":151,
-						"NORMAL":152,
-						"TEXCOORD_0":153
-					},
-					"indices":154,
-					"material":18
-				}
-			]
-		},
-		{
-			"name":"Cylinder",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":155,
-						"NORMAL":156,
-						"TEXCOORD_0":157
-					},
-					"indices":158,
-					"material":19
-				}
-			]
-		},
-		{
-			"name":"Cylinder.001",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":159,
-						"NORMAL":160,
-						"TEXCOORD_0":161
-					},
-					"indices":162,
-					"material":19
-				}
-			]
-		},
-		{
-			"name":"Cylinder.003",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":163,
-						"NORMAL":164,
-						"TEXCOORD_0":165
-					},
-					"indices":166,
-					"material":20
-				}
-			]
-		},
-		{
-			"name":"bus_stop.003",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":167,
-						"NORMAL":168,
-						"TEXCOORD_0":169
-					},
-					"indices":170,
-					"material":21
-				}
-			]
-		},
-		{
-			"name":"bus_stop.002",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":171,
-						"NORMAL":172,
-						"TEXCOORD_0":173
-					},
-					"indices":174,
-					"material":21
-				}
-			]
-		},
-		{
-			"name":"bus_stop.001",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":175,
-						"NORMAL":176,
-						"TEXCOORD_0":177
-					},
-					"indices":178,
-					"material":21
-				}
-			]
-		},
-		{
-			"name":"bus_stop",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":179,
-						"NORMAL":180,
-						"TEXCOORD_0":181
-					},
-					"indices":182,
-					"material":21
-				}
-			]
-		},
-		{
-			"name":"Plane.003",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":183,
-						"NORMAL":184,
-						"TEXCOORD_0":185
-					},
-					"indices":186,
-					"material":22
-				}
-			]
-		},
-		{
-			"name":"Plane.008",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":187,
-						"NORMAL":188,
-						"TEXCOORD_0":189
-					},
-					"indices":143,
-					"material":23
-				}
-			]
-		},
-		{
-			"name":"Cylinder08.001",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":190,
-						"NORMAL":191,
-						"TEXCOORD_0":192,
-						"TEXCOORD_1":193
-					},
-					"indices":194,
-					"material":21
 				}
 			]
 		},
@@ -5944,12 +6052,12 @@
 			"primitives":[
 				{
 					"attributes":{
-						"POSITION":195,
-						"NORMAL":196,
-						"TEXCOORD_0":197
+						"POSITION":131,
+						"NORMAL":132,
+						"TEXCOORD_0":133
 					},
-					"indices":121,
-					"material":24
+					"indices":124,
+					"material":12
 				}
 			]
 		},
@@ -5958,26 +6066,279 @@
 			"primitives":[
 				{
 					"attributes":{
+						"POSITION":134,
+						"NORMAL":135,
+						"TEXCOORD_0":136
+					},
+					"indices":124,
+					"material":13
+				}
+			]
+		},
+		{
+			"name":"Plane.015",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":137,
+						"NORMAL":138,
+						"TEXCOORD_0":139
+					},
+					"indices":124,
+					"material":11
+				}
+			]
+		},
+		{
+			"name":"Cube.008",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":140,
+						"NORMAL":141,
+						"TEXCOORD_0":142
+					},
+					"indices":143,
+					"material":14
+				}
+			]
+		},
+		{
+			"name":"Cube.009",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":144,
+						"NORMAL":145,
+						"TEXCOORD_0":146
+					},
+					"indices":147,
+					"material":15
+				}
+			]
+		},
+		{
+			"name":"Cylinder016",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":148,
+						"NORMAL":149,
+						"TEXCOORD_0":150
+					},
+					"indices":151,
+					"material":16
+				}
+			]
+		},
+		{
+			"name":"Plane.014",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":152,
+						"NORMAL":153,
+						"TEXCOORD_0":154
+					},
+					"indices":124,
+					"material":17
+				}
+			]
+		},
+		{
+			"name":"Plane",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":155,
+						"NORMAL":156,
+						"TEXCOORD_0":157
+					},
+					"indices":158,
+					"material":18
+				}
+			]
+		},
+		{
+			"name":"Plane.009",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":159,
+						"NORMAL":160,
+						"TEXCOORD_0":161
+					},
+					"indices":158,
+					"material":19
+				}
+			]
+		},
+		{
+			"name":"Cylinder.002",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":162,
+						"NORMAL":163,
+						"TEXCOORD_0":164
+					},
+					"indices":165,
+					"material":20
+				}
+			]
+		},
+		{
+			"name":"Plane.002",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":166,
+						"NORMAL":167,
+						"TEXCOORD_0":168
+					},
+					"indices":169,
+					"material":21
+				}
+			]
+		},
+		{
+			"name":"Cylinder",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":170,
+						"NORMAL":171,
+						"TEXCOORD_0":172
+					},
+					"indices":173,
+					"material":22
+				}
+			]
+		},
+		{
+			"name":"Cylinder.001",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":174,
+						"NORMAL":175,
+						"TEXCOORD_0":176
+					},
+					"indices":177,
+					"material":22
+				}
+			]
+		},
+		{
+			"name":"Cylinder.003",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":178,
+						"NORMAL":179,
+						"TEXCOORD_0":180
+					},
+					"indices":181,
+					"material":23
+				}
+			]
+		},
+		{
+			"name":"bus_stop.003",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":182,
+						"NORMAL":183,
+						"TEXCOORD_0":184
+					},
+					"indices":185,
+					"material":24
+				}
+			]
+		},
+		{
+			"name":"bus_stop.002",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":186,
+						"NORMAL":187,
+						"TEXCOORD_0":188
+					},
+					"indices":189,
+					"material":24
+				}
+			]
+		},
+		{
+			"name":"bus_stop.001",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":190,
+						"NORMAL":191,
+						"TEXCOORD_0":192
+					},
+					"indices":193,
+					"material":24
+				}
+			]
+		},
+		{
+			"name":"bus_stop",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":194,
+						"NORMAL":195,
+						"TEXCOORD_0":196
+					},
+					"indices":197,
+					"material":24
+				}
+			]
+		},
+		{
+			"name":"Plane.003",
+			"primitives":[
+				{
+					"attributes":{
 						"POSITION":198,
 						"NORMAL":199,
 						"TEXCOORD_0":200
 					},
-					"indices":121,
+					"indices":201,
 					"material":25
 				}
 			]
 		},
 		{
-			"name":"fog",
+			"name":"Plane.008",
 			"primitives":[
 				{
 					"attributes":{
-						"POSITION":201,
-						"NORMAL":202,
-						"TEXCOORD_0":203
+						"POSITION":202,
+						"NORMAL":203,
+						"TEXCOORD_0":204
 					},
-					"indices":121,
+					"indices":158,
 					"material":26
+				}
+			]
+		},
+		{
+			"name":"Cylinder08.001",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":205,
+						"NORMAL":206,
+						"TEXCOORD_0":207,
+						"TEXCOORD_1":208
+					},
+					"indices":209,
+					"material":24
 				}
 			]
 		}
@@ -6032,7 +6393,7 @@
 			"source":10
 		},
 		{
-			"sampler":0,
+			"sampler":1,
 			"source":11
 		},
 		{
@@ -6048,11 +6409,11 @@
 			"source":14
 		},
 		{
-			"sampler":1,
+			"sampler":0,
 			"source":15
 		},
 		{
-			"sampler":1,
+			"sampler":0,
 			"source":16
 		},
 		{
@@ -6060,11 +6421,11 @@
 			"source":17
 		},
 		{
-			"sampler":0,
+			"sampler":1,
 			"source":18
 		},
 		{
-			"sampler":0,
+			"sampler":1,
 			"source":19
 		},
 		{
@@ -6084,7 +6445,7 @@
 			"source":23
 		},
 		{
-			"sampler":1,
+			"sampler":0,
 			"source":24
 		},
 		{
@@ -6092,7 +6453,7 @@
 			"source":25
 		},
 		{
-			"sampler":1,
+			"sampler":0,
 			"source":26
 		}
 	],
@@ -6146,6 +6507,21 @@
 			"mimeType":"image/png",
 			"name":"fence.png",
 			"uri":"fence_png.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"grass",
+			"uri":"grass.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"tree2",
+			"uri":"tree2.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"tree3",
+			"uri":"tree3.png"
 		},
 		{
 			"mimeType":"image/png",
@@ -6216,21 +6592,6 @@
 			"mimeType":"image/png",
 			"name":"epuddle",
 			"uri":"epuddle.png"
-		},
-		{
-			"mimeType":"image/png",
-			"name":"tree2",
-			"uri":"tree2.png"
-		},
-		{
-			"mimeType":"image/png",
-			"name":"tree3",
-			"uri":"tree3.png"
-		},
-		{
-			"mimeType":"image/png",
-			"name":"fog",
-			"uri":"fog.png"
 		}
 	],
 	"accessors":[
@@ -7241,6 +7602,34 @@
 		{
 			"bufferView":114,
 			"componentType":5126,
+			"count":360,
+			"max":[
+				0.07500000298023224,
+				0.055000003427267075,
+				0.07500000298023224
+			],
+			"min":[
+				-0.07500000298023224,
+				-0.07500000298023224,
+				-8.925000190734863
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":115,
+			"componentType":5126,
+			"count":360,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":116,
+			"componentType":5126,
+			"count":360,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":117,
+			"componentType":5126,
 			"count":480,
 			"max":[
 				0.46697360277175903,
@@ -7255,25 +7644,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":115,
+			"bufferView":118,
 			"componentType":5126,
 			"count":480,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":116,
+			"bufferView":119,
 			"componentType":5126,
 			"count":480,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":117,
+			"bufferView":120,
 			"componentType":5123,
 			"count":684,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":118,
+			"bufferView":121,
 			"componentType":5126,
 			"count":4,
 			"max":[
@@ -7289,25 +7678,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":119,
+			"bufferView":122,
 			"componentType":5126,
 			"count":4,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":120,
+			"bufferView":123,
 			"componentType":5126,
 			"count":4,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":121,
+			"bufferView":124,
 			"componentType":5123,
 			"count":6,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":122,
+			"bufferView":125,
 			"componentType":5126,
 			"count":4,
 			"max":[
@@ -7323,118 +7712,100 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":123,
-			"componentType":5126,
-			"count":4,
-			"type":"VEC3"
-		},
-		{
-			"bufferView":124,
-			"componentType":5126,
-			"count":4,
-			"type":"VEC2"
-		},
-		{
-			"bufferView":125,
-			"componentType":5126,
-			"count":397,
-			"max":[
-				3,
-				3.799999952316284,
-				3
-			],
-			"min":[
-				-0.047499895095825195,
-				0,
-				1.1920928955078125e-07
-			],
-			"type":"VEC3"
-		},
-		{
 			"bufferView":126,
 			"componentType":5126,
-			"count":397,
+			"count":4,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":127,
 			"componentType":5126,
-			"count":397,
+			"count":4,
 			"type":"VEC2"
 		},
 		{
 			"bufferView":128,
-			"componentType":5123,
-			"count":768,
-			"type":"SCALAR"
+			"componentType":5126,
+			"count":4,
+			"max":[
+				3,
+				0,
+				0
+			],
+			"min":[
+				0,
+				0,
+				-3
+			],
+			"type":"VEC3"
 		},
 		{
 			"bufferView":129,
 			"componentType":5126,
-			"count":731,
-			"max":[
-				0.07071065902709961,
-				4,
-				0.07071065902709961
-			],
-			"min":[
-				-3,
-				0,
-				-3.0707106590270996
-			],
+			"count":4,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":130,
 			"componentType":5126,
-			"count":731,
-			"type":"VEC3"
+			"count":4,
+			"type":"VEC2"
 		},
 		{
 			"bufferView":131,
 			"componentType":5126,
-			"count":731,
-			"type":"VEC2"
-		},
-		{
-			"bufferView":132,
-			"componentType":5123,
-			"count":1602,
-			"type":"SCALAR"
-		},
-		{
-			"bufferView":133,
-			"componentType":5126,
-			"count":1490,
+			"count":4,
 			"max":[
-				0.40822479128837585,
-				7.717371940612793,
-				1.4204798936843872
+				0.38793104887008667,
+				0,
+				0.5
 			],
 			"min":[
-				-0.3537752330303192,
-				0.0031079917680472136,
-				-0.343796968460083
+				-0.38793104887008667,
+				0,
+				-0.5
 			],
 			"type":"VEC3"
 		},
 		{
+			"bufferView":132,
+			"componentType":5126,
+			"count":4,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":133,
+			"componentType":5126,
+			"count":4,
+			"type":"VEC2"
+		},
+		{
 			"bufferView":134,
 			"componentType":5126,
-			"count":1490,
+			"count":4,
+			"max":[
+				0.38793104887008667,
+				0,
+				0.5
+			],
+			"min":[
+				-0.38793104887008667,
+				0,
+				-0.5
+			],
 			"type":"VEC3"
 		},
 		{
 			"bufferView":135,
 			"componentType":5126,
-			"count":1490,
-			"type":"VEC2"
+			"count":4,
+			"type":"VEC3"
 		},
 		{
 			"bufferView":136,
-			"componentType":5123,
-			"count":4371,
-			"type":"SCALAR"
+			"componentType":5126,
+			"count":4,
+			"type":"VEC2"
 		},
 		{
 			"bufferView":137,
@@ -7448,7 +7819,7 @@
 			"min":[
 				0,
 				0,
-				-4
+				-3
 			],
 			"type":"VEC3"
 		},
@@ -7467,6 +7838,136 @@
 		{
 			"bufferView":140,
 			"componentType":5126,
+			"count":397,
+			"max":[
+				3,
+				3.799999952316284,
+				3
+			],
+			"min":[
+				-0.047499895095825195,
+				0,
+				1.1920928955078125e-07
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":141,
+			"componentType":5126,
+			"count":397,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":142,
+			"componentType":5126,
+			"count":397,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":143,
+			"componentType":5123,
+			"count":768,
+			"type":"SCALAR"
+		},
+		{
+			"bufferView":144,
+			"componentType":5126,
+			"count":731,
+			"max":[
+				0.07071065902709961,
+				4,
+				0.07071065902709961
+			],
+			"min":[
+				-3,
+				0,
+				-3.0707106590270996
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":145,
+			"componentType":5126,
+			"count":731,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":146,
+			"componentType":5126,
+			"count":731,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":147,
+			"componentType":5123,
+			"count":1602,
+			"type":"SCALAR"
+		},
+		{
+			"bufferView":148,
+			"componentType":5126,
+			"count":1490,
+			"max":[
+				0.40822479128837585,
+				7.717371940612793,
+				1.4204798936843872
+			],
+			"min":[
+				-0.3537752330303192,
+				0.0031079917680472136,
+				-0.343796968460083
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":149,
+			"componentType":5126,
+			"count":1490,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":150,
+			"componentType":5126,
+			"count":1490,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":151,
+			"componentType":5123,
+			"count":4371,
+			"type":"SCALAR"
+		},
+		{
+			"bufferView":152,
+			"componentType":5126,
+			"count":4,
+			"max":[
+				3,
+				0,
+				0
+			],
+			"min":[
+				0,
+				0,
+				-4
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":153,
+			"componentType":5126,
+			"count":4,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":154,
+			"componentType":5126,
+			"count":4,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":155,
+			"componentType":5126,
 			"count":4,
 			"max":[
 				1,
@@ -7481,25 +7982,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":141,
+			"bufferView":156,
 			"componentType":5126,
 			"count":4,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":142,
+			"bufferView":157,
 			"componentType":5126,
 			"count":4,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":143,
+			"bufferView":158,
 			"componentType":5123,
 			"count":6,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":144,
+			"bufferView":159,
 			"componentType":5126,
 			"count":4,
 			"max":[
@@ -7515,19 +8016,19 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":145,
+			"bufferView":160,
 			"componentType":5126,
 			"count":4,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":146,
+			"bufferView":161,
 			"componentType":5126,
 			"count":4,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":147,
+			"bufferView":162,
 			"componentType":5126,
 			"count":496,
 			"max":[
@@ -7543,25 +8044,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":148,
+			"bufferView":163,
 			"componentType":5126,
 			"count":496,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":149,
+			"bufferView":164,
 			"componentType":5126,
 			"count":496,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":150,
+			"bufferView":165,
 			"componentType":5123,
 			"count":1044,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":151,
+			"bufferView":166,
 			"componentType":5126,
 			"count":722,
 			"max":[
@@ -7577,25 +8078,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":152,
+			"bufferView":167,
 			"componentType":5126,
 			"count":722,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":153,
+			"bufferView":168,
 			"componentType":5126,
 			"count":722,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":154,
+			"bufferView":169,
 			"componentType":5123,
 			"count":1518,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":155,
+			"bufferView":170,
 			"componentType":5126,
 			"count":327,
 			"max":[
@@ -7611,25 +8112,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":156,
+			"bufferView":171,
 			"componentType":5126,
 			"count":327,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":157,
+			"bufferView":172,
 			"componentType":5126,
 			"count":327,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":158,
+			"bufferView":173,
 			"componentType":5123,
 			"count":564,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":159,
+			"bufferView":174,
 			"componentType":5126,
 			"count":232,
 			"max":[
@@ -7645,59 +8146,59 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":160,
+			"bufferView":175,
 			"componentType":5126,
 			"count":232,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":161,
+			"bufferView":176,
 			"componentType":5126,
 			"count":232,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":162,
+			"bufferView":177,
 			"componentType":5123,
 			"count":432,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":163,
+			"bufferView":178,
 			"componentType":5126,
-			"count":96,
+			"count":192,
 			"max":[
-				0.5577429533004761,
-				1.7942798137664795,
-				0.49919965863227844
+				0.5099999904632568,
+				1.7787258625030518,
+				0.5
 			],
 			"min":[
-				-0.4406563639640808,
+				-0.49000000953674316,
 				0,
-				-0.49919965863227844
+				-0.5
 			],
 			"type":"VEC3"
 		},
 		{
-			"bufferView":164,
+			"bufferView":179,
 			"componentType":5126,
-			"count":96,
+			"count":192,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":165,
+			"bufferView":180,
 			"componentType":5126,
-			"count":96,
+			"count":192,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":166,
+			"bufferView":181,
 			"componentType":5123,
-			"count":180,
+			"count":372,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":167,
+			"bufferView":182,
 			"componentType":5126,
 			"count":823,
 			"max":[
@@ -7713,25 +8214,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":168,
+			"bufferView":183,
 			"componentType":5126,
 			"count":823,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":169,
+			"bufferView":184,
 			"componentType":5126,
 			"count":823,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":170,
+			"bufferView":185,
 			"componentType":5123,
 			"count":1530,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":171,
+			"bufferView":186,
 			"componentType":5126,
 			"count":268,
 			"max":[
@@ -7747,25 +8248,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":172,
+			"bufferView":187,
 			"componentType":5126,
 			"count":268,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":173,
+			"bufferView":188,
 			"componentType":5126,
 			"count":268,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":174,
+			"bufferView":189,
 			"componentType":5123,
 			"count":390,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":175,
+			"bufferView":190,
 			"componentType":5126,
 			"count":252,
 			"max":[
@@ -7781,25 +8282,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":176,
+			"bufferView":191,
 			"componentType":5126,
 			"count":252,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":177,
+			"bufferView":192,
 			"componentType":5126,
 			"count":252,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":178,
+			"bufferView":193,
 			"componentType":5123,
 			"count":378,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":179,
+			"bufferView":194,
 			"componentType":5126,
 			"count":764,
 			"max":[
@@ -7815,25 +8316,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":180,
+			"bufferView":195,
 			"componentType":5126,
 			"count":764,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":181,
+			"bufferView":196,
 			"componentType":5126,
 			"count":764,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":182,
+			"bufferView":197,
 			"componentType":5123,
 			"count":1356,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":183,
+			"bufferView":198,
 			"componentType":5126,
 			"count":400,
 			"max":[
@@ -7849,25 +8350,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":184,
+			"bufferView":199,
 			"componentType":5126,
 			"count":400,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":185,
+			"bufferView":200,
 			"componentType":5126,
 			"count":400,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":186,
+			"bufferView":201,
 			"componentType":5123,
 			"count":600,
 			"type":"SCALAR"
 		},
 		{
-			"bufferView":187,
+			"bufferView":202,
 			"componentType":5126,
 			"count":4,
 			"max":[
@@ -7883,19 +8384,19 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":188,
+			"bufferView":203,
 			"componentType":5126,
 			"count":4,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":189,
+			"bufferView":204,
 			"componentType":5126,
 			"count":4,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":190,
+			"bufferView":205,
 			"componentType":5126,
 			"count":3640,
 			"max":[
@@ -7911,112 +8412,28 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":191,
+			"bufferView":206,
 			"componentType":5126,
 			"count":3640,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":192,
+			"bufferView":207,
 			"componentType":5126,
 			"count":3640,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":193,
+			"bufferView":208,
 			"componentType":5126,
 			"count":3640,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":194,
+			"bufferView":209,
 			"componentType":5123,
 			"count":6264,
 			"type":"SCALAR"
-		},
-		{
-			"bufferView":195,
-			"componentType":5126,
-			"count":4,
-			"max":[
-				0.38793104887008667,
-				0,
-				0.5
-			],
-			"min":[
-				-0.38793104887008667,
-				0,
-				-0.5
-			],
-			"type":"VEC3"
-		},
-		{
-			"bufferView":196,
-			"componentType":5126,
-			"count":4,
-			"type":"VEC3"
-		},
-		{
-			"bufferView":197,
-			"componentType":5126,
-			"count":4,
-			"type":"VEC2"
-		},
-		{
-			"bufferView":198,
-			"componentType":5126,
-			"count":4,
-			"max":[
-				0.38793104887008667,
-				0,
-				0.5
-			],
-			"min":[
-				-0.38793104887008667,
-				0,
-				-0.5
-			],
-			"type":"VEC3"
-		},
-		{
-			"bufferView":199,
-			"componentType":5126,
-			"count":4,
-			"type":"VEC3"
-		},
-		{
-			"bufferView":200,
-			"componentType":5126,
-			"count":4,
-			"type":"VEC2"
-		},
-		{
-			"bufferView":201,
-			"componentType":5126,
-			"count":4,
-			"max":[
-				0.5,
-				0,
-				0.5
-			],
-			"min":[
-				-0.5,
-				0,
-				-0.5
-			],
-			"type":"VEC3"
-		},
-		{
-			"bufferView":202,
-			"componentType":5126,
-			"count":4,
-			"type":"VEC3"
-		},
-		{
-			"bufferView":203,
-			"componentType":5126,
-			"count":4,
-			"type":"VEC2"
 		}
 	],
 	"bufferViews":[
@@ -8706,543 +9123,579 @@
 		},
 		{
 			"buffer":0,
-			"byteLength":5760,
+			"byteLength":4320,
 			"byteOffset":1164112,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":5760,
-			"byteOffset":1169872,
+			"byteLength":4320,
+			"byteOffset":1168432,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":3840,
+			"byteLength":2880,
+			"byteOffset":1172752,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":5760,
 			"byteOffset":1175632,
 			"target":34962
 		},
 		{
 			"buffer":0,
+			"byteLength":5760,
+			"byteOffset":1181392,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":3840,
+			"byteOffset":1187152,
+			"target":34962
+		},
+		{
+			"buffer":0,
 			"byteLength":1368,
-			"byteOffset":1179472,
+			"byteOffset":1190992,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":48,
-			"byteOffset":1180840,
+			"byteOffset":1192360,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":48,
-			"byteOffset":1180888,
+			"byteOffset":1192408,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":32,
-			"byteOffset":1180936,
+			"byteOffset":1192456,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":12,
-			"byteOffset":1180968,
+			"byteOffset":1192488,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":48,
-			"byteOffset":1180980,
+			"byteOffset":1192500,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":48,
-			"byteOffset":1181028,
+			"byteOffset":1192548,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":32,
-			"byteOffset":1181076,
+			"byteOffset":1192596,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":48,
+			"byteOffset":1192628,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":48,
+			"byteOffset":1192676,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":32,
+			"byteOffset":1192724,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":48,
+			"byteOffset":1192756,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":48,
+			"byteOffset":1192804,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":32,
+			"byteOffset":1192852,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":48,
+			"byteOffset":1192884,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":48,
+			"byteOffset":1192932,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":32,
+			"byteOffset":1192980,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":48,
+			"byteOffset":1193012,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":48,
+			"byteOffset":1193060,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":32,
+			"byteOffset":1193108,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":4764,
-			"byteOffset":1181108,
+			"byteOffset":1193140,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":4764,
-			"byteOffset":1185872,
+			"byteOffset":1197904,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":3176,
-			"byteOffset":1190636,
+			"byteOffset":1202668,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":1536,
-			"byteOffset":1193812,
+			"byteOffset":1205844,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":8772,
-			"byteOffset":1195348,
+			"byteOffset":1207380,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":8772,
-			"byteOffset":1204120,
+			"byteOffset":1216152,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":5848,
-			"byteOffset":1212892,
+			"byteOffset":1224924,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":3204,
-			"byteOffset":1218740,
+			"byteOffset":1230772,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":17880,
-			"byteOffset":1221944,
+			"byteOffset":1233976,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":17880,
-			"byteOffset":1239824,
+			"byteOffset":1251856,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":11920,
-			"byteOffset":1257704,
+			"byteOffset":1269736,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":8742,
-			"byteOffset":1269624,
+			"byteOffset":1281656,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":48,
-			"byteOffset":1278368,
+			"byteOffset":1290400,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":48,
-			"byteOffset":1278416,
+			"byteOffset":1290448,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":32,
-			"byteOffset":1278464,
+			"byteOffset":1290496,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":48,
-			"byteOffset":1278496,
+			"byteOffset":1290528,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":48,
-			"byteOffset":1278544,
+			"byteOffset":1290576,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":32,
-			"byteOffset":1278592,
+			"byteOffset":1290624,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":12,
-			"byteOffset":1278624,
+			"byteOffset":1290656,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":48,
-			"byteOffset":1278636,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":48,
-			"byteOffset":1278684,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":32,
-			"byteOffset":1278732,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":5952,
-			"byteOffset":1278764,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":5952,
-			"byteOffset":1284716,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":3968,
 			"byteOffset":1290668,
 			"target":34962
 		},
 		{
 			"buffer":0,
+			"byteLength":48,
+			"byteOffset":1290716,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":32,
+			"byteOffset":1290764,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":5952,
+			"byteOffset":1290796,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":5952,
+			"byteOffset":1296748,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":3968,
+			"byteOffset":1302700,
+			"target":34962
+		},
+		{
+			"buffer":0,
 			"byteLength":2088,
-			"byteOffset":1294636,
+			"byteOffset":1306668,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":8664,
-			"byteOffset":1296724,
+			"byteOffset":1308756,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":8664,
-			"byteOffset":1305388,
+			"byteOffset":1317420,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":5776,
-			"byteOffset":1314052,
+			"byteOffset":1326084,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":3036,
-			"byteOffset":1319828,
+			"byteOffset":1331860,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":3924,
-			"byteOffset":1322864,
+			"byteOffset":1334896,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":3924,
-			"byteOffset":1326788,
+			"byteOffset":1338820,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":2616,
-			"byteOffset":1330712,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":1128,
-			"byteOffset":1333328,
-			"target":34963
-		},
-		{
-			"buffer":0,
-			"byteLength":2784,
-			"byteOffset":1334456,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":2784,
-			"byteOffset":1337240,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":1856,
-			"byteOffset":1340024,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":864,
-			"byteOffset":1341880,
-			"target":34963
-		},
-		{
-			"buffer":0,
-			"byteLength":1152,
 			"byteOffset":1342744,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":1152,
-			"byteOffset":1343896,
+			"byteLength":1128,
+			"byteOffset":1345360,
+			"target":34963
+		},
+		{
+			"buffer":0,
+			"byteLength":2784,
+			"byteOffset":1346488,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":768,
-			"byteOffset":1345048,
+			"byteLength":2784,
+			"byteOffset":1349272,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":360,
-			"byteOffset":1345816,
+			"byteLength":1856,
+			"byteOffset":1352056,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":864,
+			"byteOffset":1353912,
+			"target":34963
+		},
+		{
+			"buffer":0,
+			"byteLength":2304,
+			"byteOffset":1354776,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":2304,
+			"byteOffset":1357080,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":1536,
+			"byteOffset":1359384,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":744,
+			"byteOffset":1360920,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":9876,
-			"byteOffset":1346176,
+			"byteOffset":1361664,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":9876,
-			"byteOffset":1356052,
+			"byteOffset":1371540,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":6584,
-			"byteOffset":1365928,
+			"byteOffset":1381416,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":3060,
-			"byteOffset":1372512,
+			"byteOffset":1388000,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":3216,
-			"byteOffset":1375572,
+			"byteOffset":1391060,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":3216,
-			"byteOffset":1378788,
+			"byteOffset":1394276,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":2144,
-			"byteOffset":1382004,
+			"byteOffset":1397492,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":780,
-			"byteOffset":1384148,
+			"byteOffset":1399636,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":3024,
-			"byteOffset":1384928,
+			"byteOffset":1400416,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":3024,
-			"byteOffset":1387952,
+			"byteOffset":1403440,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":2016,
-			"byteOffset":1390976,
+			"byteOffset":1406464,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":756,
-			"byteOffset":1392992,
+			"byteOffset":1408480,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":9168,
-			"byteOffset":1393748,
+			"byteOffset":1409236,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":9168,
-			"byteOffset":1402916,
+			"byteOffset":1418404,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":6112,
-			"byteOffset":1412084,
+			"byteOffset":1427572,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":2712,
-			"byteOffset":1418196,
+			"byteOffset":1433684,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":4800,
-			"byteOffset":1420908,
+			"byteOffset":1436396,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":4800,
-			"byteOffset":1425708,
+			"byteOffset":1441196,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":3200,
-			"byteOffset":1430508,
+			"byteOffset":1445996,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":1200,
-			"byteOffset":1433708,
+			"byteOffset":1449196,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":48,
-			"byteOffset":1434908,
+			"byteOffset":1450396,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":48,
-			"byteOffset":1434956,
+			"byteOffset":1450444,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":32,
-			"byteOffset":1435004,
+			"byteOffset":1450492,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":43680,
-			"byteOffset":1435036,
+			"byteOffset":1450524,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":43680,
-			"byteOffset":1478716,
+			"byteOffset":1494204,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":29120,
-			"byteOffset":1522396,
+			"byteOffset":1537884,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":29120,
-			"byteOffset":1551516,
+			"byteOffset":1567004,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":12528,
-			"byteOffset":1580636,
+			"byteOffset":1596124,
 			"target":34963
-		},
-		{
-			"buffer":0,
-			"byteLength":48,
-			"byteOffset":1593164,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":48,
-			"byteOffset":1593212,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":32,
-			"byteOffset":1593260,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":48,
-			"byteOffset":1593292,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":48,
-			"byteOffset":1593340,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":32,
-			"byteOffset":1593388,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":48,
-			"byteOffset":1593420,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":48,
-			"byteOffset":1593468,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":32,
-			"byteOffset":1593516,
-			"target":34962
 		}
 	],
 	"samplers":[
@@ -9259,7 +9712,7 @@
 	],
 	"buffers":[
 		{
-			"byteLength":1593548,
+			"byteLength":1608652,
 			"uri":"RIFT-finalEnvironment.bin"
 		}
 	]
