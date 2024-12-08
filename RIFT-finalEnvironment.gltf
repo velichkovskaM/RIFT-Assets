@@ -4667,6 +4667,7 @@
 			}
 		},
 		{
+			"alphaMode":"BLEND",
 			"doubleSided":true,
 			"name":"raindropMAT",
 			"pbrMetallicRoughness":{
@@ -4674,7 +4675,7 @@
 					"index":1
 				},
 				"metallicFactor":0,
-				"roughnessFactor":0.5
+				"roughnessFactor":0.1090908944606781
 			}
 		},
 		{
@@ -4852,14 +4853,14 @@
 			}
 		},
 		{
+			"alphaMode":"BLEND",
 			"doubleSided":true,
 			"name":"sewageMAt.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":18
 				},
-				"metallicFactor":0,
-				"roughnessFactor":0.5
+				"metallicFactor":0
 			}
 		},
 		{
@@ -5745,7 +5746,7 @@
 		},
 		{
 			"sampler":0,
-			"source":17
+			"source":22
 		}
 	],
 	"images":[
@@ -5756,8 +5757,8 @@
 		},
 		{
 			"mimeType":"image/png",
-			"name":"Sky_Blue",
-			"uri":"Sky_Blue.png"
+			"name":"raindropTEX",
+			"uri":"raindropTEX.png"
 		},
 		{
 			"mimeType":"image/png",
@@ -5791,8 +5792,8 @@
 		},
 		{
 			"mimeType":"image/png",
-			"name":"tree",
-			"uri":"tree.png"
+			"name":"tree.png",
+			"uri":"tree_png.png"
 		},
 		{
 			"mimeType":"image/png",
@@ -5836,8 +5837,8 @@
 		},
 		{
 			"mimeType":"image/png",
-			"name":"sewageHoleTEX",
-			"uri":"sewageHoleTEX.png"
+			"name":"sewageHole",
+			"uri":"sewageHole.png"
 		},
 		{
 			"mimeType":"image/png",
@@ -5858,6 +5859,11 @@
 			"mimeType":"image/png",
 			"name":"busStopTEX.baked",
 			"uri":"busStopTEX_baked.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"sewageHoleTEX",
+			"uri":"sewageHoleTEX.png"
 		}
 	],
 	"accessors":[
