@@ -4613,16 +4613,27 @@
 		},
 		{
 			"mesh":51,
-			"name":"electrifiedPuddle",
+			"name":"epuddle",
 			"translation":[
 				1.5,
-				0,
+				0.009999999776482582,
 				-37.5
 			]
 		},
 		{
 			"mesh":52,
 			"name":"pole",
+			"rotation":[
+				0,
+				0.7071068286895752,
+				0,
+				0.7071068286895752
+			],
+			"scale":[
+				0.01269999984651804,
+				0.01269999984651804,
+				0.01269999984651804
+			],
 			"translation":[
 				1,
 				0,
@@ -4934,21 +4945,6 @@
 				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
-			}
-		},
-		{
-			"doubleSided":true,
-			"extensions":{
-				"KHR_materials_specular":{
-					"specularFactor":0
-				}
-			},
-			"name":"CIMENTO.001",
-			"pbrMetallicRoughness":{
-				"baseColorTexture":{
-					"index":24
-				},
-				"roughnessFactor":0.858578622341156
 			}
 		}
 	],
@@ -5682,7 +5678,7 @@
 			]
 		},
 		{
-			"name":"Mesh",
+			"name":"Cylinder08.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -5692,7 +5688,7 @@
 						"TEXCOORD_1":193
 					},
 					"indices":194,
-					"material":23
+					"material":21
 				}
 			]
 		}
@@ -5793,10 +5789,6 @@
 		{
 			"sampler":0,
 			"source":22
-		},
-		{
-			"sampler":0,
-			"source":16
 		}
 	],
 	"images":[
@@ -7582,14 +7574,14 @@
 			"componentType":5126,
 			"count":3628,
 			"max":[
-				5.433774948120117,
-				3.2629168033599854,
-				0.4806782007217407
+				38.87337875366211,
+				268.8580322265625,
+				558.8173217773438
 			],
 			"min":[
-				-5.279951095581055,
-				-0.08741530776023865,
-				-0.47932156920433044
+				-39.86678695678711,
+				-319.3039855957031,
+				-516.3472290039062
 			],
 			"type":"VEC3"
 		},
