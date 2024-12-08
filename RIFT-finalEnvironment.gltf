@@ -5932,8 +5932,8 @@
 		},
 		{
 			"mimeType":"image/png",
-			"name":"fence",
-			"uri":"fence.png"
+			"name":"fence.png",
+			"uri":"fence_png.png"
 		},
 		{
 			"mimeType":"image/png",
@@ -5962,8 +5962,8 @@
 		},
 		{
 			"mimeType":"image/png",
-			"name":"puddle",
-			"uri":"puddle.png"
+			"name":"puddle.png",
+			"uri":"puddle_png.png"
 		},
 		{
 			"mimeType":"image/png",
